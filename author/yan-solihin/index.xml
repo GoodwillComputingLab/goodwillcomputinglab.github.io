@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yan Solihin | GoodWill Computing Labs</title>
+    <link>https://goodwillcomputinglab.github.io/author/yan-solihin/</link>
+      <atom:link href="https://goodwillcomputinglab.github.io/author/yan-solihin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yan Solihin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://goodwillcomputinglab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yan Solihin</title>
+      <link>https://goodwillcomputinglab.github.io/author/yan-solihin/</link>
+    </image>
+    
+    <item>
+      <title>MapReuse: Reusing Computation in an In-Memory MapReduce System</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confipps-tiwari-s-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confipps-tiwari-s-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active flash: towards energy-efficient, in-situ data analytics on extreme-scale machines</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conffast-tiwari-bvkmds-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conffast-tiwari-bvkmds-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architectural characterization and similarity analysis of sunspider and Google&#39;s V8 Javascript benchmarks</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confispass-tiwari-s-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confispass-tiwari-s-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and Analyzing Key Performance Factors of Shared Memory MapReduce</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confipps-tiwari-s-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confipps-tiwari-s-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HAQu: Hardware-accelerated queueing for fine-grained threading on a chip multiprocessor</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-lee-tst-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-lee-tst-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MMT: Exploiting fine-grained parallelism in dynamic memory management</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confipps-tiwari-lts-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confipps-tiwari-lts-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

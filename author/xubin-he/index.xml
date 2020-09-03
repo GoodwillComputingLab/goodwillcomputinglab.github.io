@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xubin He | GoodWill Computing Labs</title>
+    <link>https://goodwillcomputinglab.github.io/author/xubin-he/</link>
+      <atom:link href="https://goodwillcomputinglab.github.io/author/xubin-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xubin He</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://goodwillcomputinglab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xubin He</title>
+      <link>https://goodwillcomputinglab.github.io/author/xubin-he/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the Optimal Platform Configuration for Power-Constrained HPC Workflows</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conficccn-tang-hgvt-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conficccn-tang-hgvt-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Running of End-to-End HPC Workflows on Emerging Heterogeneous Architectures</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confcluster-tang-tgvh-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confcluster-tang-tgvh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Managing HPC Burst Buffers Effectively: Draining Strategy to Regulate Bursty I/O Behavior</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-tang-hhlvt-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-tang-hhlvt-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-Capping Aware Checkpointing: On the Interplay Among Power-Capping, Temperature, Reliability, Performance, and Energy</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-tang-tghleh-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-tang-tghleh-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

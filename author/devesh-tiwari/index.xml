@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devesh Tiwari | GoodWill Computing Labs</title>
+    <link>https://goodwillcomputinglab.github.io/author/devesh-tiwari/</link>
+      <atom:link href="https://goodwillcomputinglab.github.io/author/devesh-tiwari/index.xml" rel="self" type="application/rss+xml" />
+    <description>Devesh Tiwari</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://goodwillcomputinglab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Devesh Tiwari</title>
+      <link>https://goodwillcomputinglab.github.io/author/devesh-tiwari/</link>
+    </image>
+    
+    <item>
+      <title>CLITE: Efficient and QoS-Aware Co-Location of Multiple Latency-Critical Jobs for Warehouse Scale Computers</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-patel-t-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-patel-t-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Performances of Five Distinct Automatic Classifiers for Fin Whale Vocalizations in Beamformed Spectrograms of Coherent Hydrophone Array</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-journalsremotesensing-garcia-cgthtr-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-journalsremotesensing-garcia-cgthtr-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIFT: A Coupon Based Throttle-and-Reward Mechanism for Fair and Efficient I/O Bandwidth Management on Parallel Storage Systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conffast-patel-0-t-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conffast-patel-0-t-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Disk Failure Predictions SMARTer!</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conffast-lu-lpyts-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conffast-lu-lpyts-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilience and coevolution of preferential interdependent networks</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-journalssnam-ganguly-mpst-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-journalssnam-ganguly-mpst-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering Access, Reuse, and Sharing Characteristics of I/O-Intensive Files on Large-Scale Production HPC Systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conffast-patel-blwcrt-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conffast-patel-blwcrt-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What does Power Consumption Behavior of HPC Jobs Reveal? : Demystifying, Quantifying, and Predicting Power Consumption Characteristics</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confipps-patel-wehzt-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confipps-patel-wehzt-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis Workflow-Aware Storage System for Multi-Core Active Flash Arrays</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-journalstpds-sim-vkvtb-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-journalstpds-sim-vkvtb-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Disk Health Degradation and Proactively Protecting Against Disk Failures for Reliable Storage Systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conficac-huang-lfstc-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conficac-huang-lfstc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Potential for Non-Disruptive Vertical Auto Scaling and Resource Estimation in Kubernetes</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confiee-ecloud-rattihalli-glt-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confiee-ecloud-rattihalli-glt-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCFI: Program Counter Guided Fault Injection for Accelerating GPU Reliability Assessment</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdate-previlon-ktk-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdate-previlon-ktk-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PERQ: Fair and Efficient Power Management of Power-Constrained Large-Scale Computing Systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confhpdc-patel-t-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confhpdc-patel-t-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting I/O behavior in large-scale storage systems: the expected and the unexpected</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-patel-blt-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-patel-blt-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Enabling Dynamic Resource Estimation and Correction for Improving Utilization in an Apache Mesos Cloud Environment</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confccgrid-rattihalli-gt-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confccgrid-rattihalli-gt-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two stage cluster for resource optimization with Apache Mesos</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-journalscorrabs-1905-09166/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-journalscorrabs-1905-09166/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What does Vibration do to Your SSD?</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdac-bhimani-pmt-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdac-bhimani-pmt-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Optimal Platform Configuration for Power-Constrained HPC Workflows</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conficccn-tang-hgvt-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conficccn-tang-hgvt-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Models for GPU Error Prediction in a Large Scale HPC System</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-nie-xgpest-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-nie-xgpest-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability Characterization of Solid State Drives in a Scalable Production Datacenter</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confbigdataconf-liang-qhhfstcsm-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confbigdataconf-liang-qhhfstcsm-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilience and the Coevolution of Interdependent Multiplex Networks</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confasunam-ganguly-mst-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confasunam-ganguly-mst-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiraz: Exploiting System Reliability and Application Resilience Characteristics to Improve Large Scale System Throughput</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-garg-pct-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-garg-pct-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Analyzing Interconnect Errors and Network Congestion on a Large Scale HPC System</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-kumar-gpwsfet-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-kumar-gpwsfet-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Temperature, Power, and Soft-Error Behaviors in Data Center Systems: Insights, Challenges, and Opportunities</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-nie-xgest-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-nie-xgest-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining architectural fault-injection and neutron beam testing approaches toward better understanding of GPU soft-error resilience</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confmwscas-previlon-etrk-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confmwscas-previlon-etrk-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compiler-Directed Soft Error Detection and Recovery to Avoid DUE and SDC via Tail-DMR</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-journalstecs-liu-jlt-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-journalstecs-liu-jlt-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Running of End-to-End HPC Workflows on Emerging Heterogeneous Architectures</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confcluster-tang-tgvh-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confcluster-tang-tgvh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Failures in large scale systems: long-term measurement, analysis, and implications</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-gupta-pet-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-gupta-pet-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GUIDE: a scalable information directory service to collect, federate, and analyze logs for operational insights into a leadership HPC facility</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-vazhkudai-mtzwog-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-vazhkudai-mtzwog-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obtaining and Managing Answer Quality for Online Data-Intensive Services</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-journalstompecs-kelley-smthe-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-journalstompecs-kelley-smthe-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Managing HPC Burst Buffers Effectively: Draining Strategy to Regulate Bursty I/O Behavior</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-tang-hhlvt-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-tang-hhlvt-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A large-scale study of soft-errors on GPUs in the field</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-nie-tgsr-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-nie-tgsr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Power Profiling for Many-Core HPC Architectures</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conficac-kelley-stg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conficac-kelley-stg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application configuration selection for energy-efficient execution on multicore systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-journalsjpdc-wang-lst-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-journalsjpdc-wang-lst-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compiler-directed lightweight checkpointing for fine-grained guaranteed soft error recovery</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-liu-jlt-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-liu-jlt-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Granularity and the cost of error recovery in resilient AMR scientific applications</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-dubey-fgct-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-dubey-fgct-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-cost soft error resilience with unified data verification and fine-grained recovery for acoustic sensor based detection</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confmicro-liu-jlt-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confmicro-liu-jlt-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-Capping Aware Checkpointing: On the Interplay Among Power-Capping, Temperature, Reliability, Performance, and Energy</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-tang-tghleh-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-tang-tghleh-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing Waste in Extreme Scale Systems through Introspective Analysis</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confipps-bautista-gomez-g-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confipps-bautista-gomez-g-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A practical approach to reconciling availability, performance, and capacity in provisioning extreme-scale storage systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-wan-wotvc-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-wan-wotvc-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AnalyzeThis: an analysis workflow-aware storage system</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-sim-kvtabr-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-sim-kvtabr-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clover: Compiler Directed Lightweight Soft Error Resilience</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conflctrts-liu-jlt-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conflctrts-liu-jlt-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Power Job Scheduler for Supercomputers: A Rule-Based Power-Aware Scheduler</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsdis-wang-tw-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsdis-wang-tw-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and Managing Answer Quality for Online Data-Intensive Services</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conficac-kelley-smthe-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conficac-kelley-smthe-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and Managing Answer Quality for Online Data-Intensive Services</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-journalscorr-kelley-smthe-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-journalscorr-kelley-smthe-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability lessons learned from GPU experience with the Titan supercomputer at Oak Ridge leadership computing facility</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-tiwari-ggrm-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-tiwari-ggrm-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Exploiting Spatial Properties of System Failures on Extreme-Scale HPC Systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-gupta-tjrm-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-gupta-tjrm-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding GPU errors on large-scale HPC systems and the implications for system design and operation</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-tiwari-grmrvoldn-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-tiwari-grmrvoldn-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Practices and Lessons Learned from Deploying and Operating Large-Scale Data-Centric Parallel File Systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-oral-shlwemfgkgtvrdsb-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-oral-shlwemfgkgtvrdsb-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving large-scale storage system performance via topology-aware and balanced data placement</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conficpads-wang-ogtv-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conficpads-wang-ogtv-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lazy Checkpointing: Exploiting Temporal Locality in Failures to Mitigate Checkpointing Overheads on Extreme-Scale Systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-tiwari-gv-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-tiwari-gv-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MapReuse: Reusing Computation in an In-Memory MapReduce System</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confipps-tiwari-s-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confipps-tiwari-s-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active flash: towards energy-efficient, in-situ data analytics on extreme-scale machines</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conffast-tiwari-bvkmds-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conffast-tiwari-bvkmds-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architectural characterization and similarity analysis of sunspider and Google&#39;s V8 Javascript benchmarks</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confispass-tiwari-s-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confispass-tiwari-s-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and Analyzing Key Performance Factors of Shared Memory MapReduce</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confipps-tiwari-s-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confipps-tiwari-s-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing Data Movement Costs Using Energy-Efficient, Active Computation on SSD</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confosdi-tiwari-vkmbd-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confosdi-tiwari-vkmbd-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HAQu: Hardware-accelerated queueing for fine-grained threading on a chip multiprocessor</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-lee-tst-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-lee-tst-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MMT: Exploiting fine-grained parallelism in dynamic memory management</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confipps-tiwari-lts-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confipps-tiwari-lts-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

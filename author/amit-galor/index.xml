@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amit Galor | GoodWill Computing Labs</title>
+    <link>https://goodwillcomputinglab.github.io/author/amit-galor/</link>
+      <atom:link href="https://goodwillcomputinglab.github.io/author/amit-galor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amit Galor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://goodwillcomputinglab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Amit Galor</title>
+      <link>https://goodwillcomputinglab.github.io/author/amit-galor/</link>
+    </image>
+    
+    <item>
+      <title>Comparing Performances of Five Distinct Automatic Classifiers for Fin Whale Vocalizations in Beamformed Spectrograms of Coherent Hydrophone Array</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-journalsremotesensing-garcia-cgthtr-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-journalsremotesensing-garcia-cgthtr-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

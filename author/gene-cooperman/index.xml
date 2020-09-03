@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gene Cooperman | GoodWill Computing Labs</title>
+    <link>https://goodwillcomputinglab.github.io/author/gene-cooperman/</link>
+      <atom:link href="https://goodwillcomputinglab.github.io/author/gene-cooperman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gene Cooperman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://goodwillcomputinglab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Gene Cooperman</title>
+      <link>https://goodwillcomputinglab.github.io/author/gene-cooperman/</link>
+    </image>
+    
+    <item>
+      <title>Shiraz: Exploiting System Reliability and Application Resilience Characteristics to Improve Large Scale System Throughput</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-garg-pct-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-garg-pct-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

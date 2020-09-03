@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James H. Rogers | GoodWill Computing Labs</title>
+    <link>https://goodwillcomputinglab.github.io/author/james-h.-rogers/</link>
+      <atom:link href="https://goodwillcomputinglab.github.io/author/james-h.-rogers/index.xml" rel="self" type="application/rss+xml" />
+    <description>James H. Rogers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://goodwillcomputinglab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>James H. Rogers</title>
+      <link>https://goodwillcomputinglab.github.io/author/james-h.-rogers/</link>
+    </image>
+    
+    <item>
+      <title>A large-scale study of soft-errors on GPUs in the field</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-nie-tgsr-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-nie-tgsr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Exploiting Spatial Properties of System Failures on Extreme-Scale HPC Systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-gupta-tjrm-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-gupta-tjrm-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding GPU errors on large-scale HPC systems and the implications for system design and operation</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-tiwari-grmrvoldn-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-tiwari-grmrvoldn-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Practices and Lessons Learned from Deploying and Operating Large-Scale Data-Centric Parallel File Systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-oral-shlwemfgkgtvrdsb-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-oral-shlwemfgkgtvrdsb-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

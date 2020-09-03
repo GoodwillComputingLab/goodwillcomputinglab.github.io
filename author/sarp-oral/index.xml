@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarp Oral | GoodWill Computing Labs</title>
+    <link>https://goodwillcomputinglab.github.io/author/sarp-oral/</link>
+      <atom:link href="https://goodwillcomputinglab.github.io/author/sarp-oral/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarp Oral</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://goodwillcomputinglab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sarp Oral</title>
+      <link>https://goodwillcomputinglab.github.io/author/sarp-oral/</link>
+    </image>
+    
+    <item>
+      <title>GUIDE: a scalable information directory service to collect, federate, and analyze logs for operational insights into a leadership HPC facility</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-vazhkudai-mtzwog-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-vazhkudai-mtzwog-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A practical approach to reconciling availability, performance, and capacity in provisioning extreme-scale storage systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-wan-wotvc-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-wan-wotvc-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Practices and Lessons Learned from Deploying and Operating Large-Scale Data-Centric Parallel File Systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-oral-shlwemfgkgtvrdsb-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-oral-shlwemfgkgtvrdsb-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving large-scale storage system performance via topology-aware and balanced data placement</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conficpads-wang-ogtv-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conficpads-wang-ogtv-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

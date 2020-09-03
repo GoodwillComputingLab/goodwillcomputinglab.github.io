@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ji Xue | GoodWill Computing Labs</title>
+    <link>https://goodwillcomputinglab.github.io/author/ji-xue/</link>
+      <atom:link href="https://goodwillcomputinglab.github.io/author/ji-xue/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ji Xue</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://goodwillcomputinglab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ji Xue</title>
+      <link>https://goodwillcomputinglab.github.io/author/ji-xue/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning Models for GPU Error Prediction in a Large Scale HPC System</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-nie-xgpest-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-nie-xgpest-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Temperature, Power, and Soft-Error Behaviors in Data Center Systems: Insights, Challenges, and Opportunities</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-nie-xgest-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-nie-xgest-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
