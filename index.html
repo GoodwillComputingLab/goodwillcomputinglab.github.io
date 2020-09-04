@@ -331,7 +331,15 @@
 
 
 
-<nav class="navbar navbar-light compensate-for-scrollbar" id="navbar-main">
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-fluid">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Goodwill Computing Lab</a>
+    </div>
+    
+
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
             data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -340,14 +348,14 @@
     
 
     
-    <div class="navbar-brand-mobile-wrapper d-inline-flex">
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
       <a class="navbar-brand" href="/">Goodwill Computing Lab</a>
     </div>
     
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
@@ -358,25 +366,60 @@
         
         
         
-          
-        
 
         
         
         
         
         
-        
-          
-          
-          
-            
-          
-          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#header" data-target="#header"><span>Home</span></a>
+          <a class="nav-link  active" href="/" data-target="[]"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/research/"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/people"><span>Team</span></a>
         </li>
 
         
@@ -418,16 +461,9 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
 
         <li class="nav-item">
-          <a class="nav-link " href="/#people" data-target="#people"><span>Team</span></a>
+          <a class="nav-link " href="/post/"><span>News</span></a>
         </li>
 
         
@@ -447,16 +483,9 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
 
         <li class="nav-item">
-          <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/contact"><span>Join Us</span></a>
         </li>
 
         
@@ -498,7 +527,7 @@
 
     </ul>
 
-
+  </div>
 </nav>
 
 
@@ -574,7 +603,7 @@
 
 <ol class="carousel-indicators">
   
-  <li data-target="#slider" data-slide-to="0" class="active"></li>
+  <li data-target="#slider" data-slide-to="0" class="active" ></li>
   
   <li data-target="#slider" data-slide-to="1" ></li>
   
@@ -583,7 +612,7 @@
 
 <div class="carousel-inner">
   
-  <div class="wg-hero dark carousel-item active" style="height: 65vh;
+  <div class="wg-hero dark carousel-item active" style="height: 80vh;
     
     background-color: #666;
     
@@ -594,289 +623,59 @@
     
     ;">
     <div class="container" style="text-align: left;">
-        <h1 class="hero-title">
-          Welcome to Goodwill Computing Lab
+      <div class = "title-container">
+        <h1 class>
+          Goodwill Computing Lab
         </h1>
-
-        
-
-        
       </div>
+      
+
+      
+    </div>
   </div>
   
-  <div class="wg-hero dark carousel-item" style="height: 65vh;
+  <div class="wg-hero dark carousel-item" style="height: 80vh;
     
     background-color: #666;
     
     
     background-image:
     linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
-    url('https://goodwillcomputinglab.github.io/img/header/fall_neu.jpg');
+    url('https://goodwillcomputinglab.github.io/img/header/NEU_Campus_3.jpg');
     
     ;">
     <div class="container" style="text-align: left;">
-        <h1 class="hero-title">
-          Welcome to Goodwill Computing Lab
+      <div class = "title-container">
+        <h1 class>
+          Goodwill Computing Lab
         </h1>
-
-        
-
-        
       </div>
+      
+
+      
+    </div>
   </div>
   
 </div>
 
-
-
 <style>
-  .wg-hero > .container {
-    margin-left: 5vw;
+  .wg-hero>.container {
+    margin-left: 5%;
     margin-top: 5vw;
     padding-left: 0;
   }
+  .title-container {
+    width: 500px;
+    text-align: center;
+  }
+  .title-container>h1{
+    color: white;
+    line-height: 150%;
+    font-size: 3em;
+    font-weight: bold;
+  }
 </style>
     
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-    
-    
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="blocks" class="home-section wg-blocks   " style="padding: 0px 0 0px 0;" >
-    <div class="container">
-      
-
-
-<div class="blocks">
-
-    <div class=" block-child-container block-one">
-        <a href="/research">
-            <div class="block-child">
-                <p class="block-title">
-                    <span class="fas fa-microscope fa-lg"></span>
-                </p>
-                <p class="block-text">
-                    Research <br /><br />
-                    <span>
-                    </span>
-                </p>
-            </div>
-        </a>
-    </div>
-
-    <div class="block-child-container block-two">
-        <a href="/publication">
-            <div class="block-child">
-                <p class="block-title">
-                    <span class="fas fa-book-open fa-lg"></span>
-                </p>
-                <p class="block-text">
-                    Publications<br /><br />
-                    <span>
-                    </span>
-                </p>
-            </div>
-        </a>
-    </div>
-    <div class="block-child-container block-three">
-        <a href="/people">
-            <div class="block-child">
-                <p class="block-title">
-                    <span class="fas fa-users fa-lg"></span>
-                </p>
-                <p class="block-text">
-                    Goodwillers<br /><br />
-                    <span>
-                    </span>
-                </p>
-            </div>
-        </a>
-    </div>
-    <div class="block-child-container block-four">
-        <a href="/post">
-            <div class="block-child">
-                <p class="block-title">
-                    <span class="fas fa-newspaper fa-lg"></span>
-                </p>
-                <p class="block-text">
-                    News<br /><br />
-                    <span>
-                    </span>
-                </p>
-            </div>
-        </a>
-
-    </div>
-    <div class="block-child-container block-five">
-        <a href="/outreach">
-            <div class="block-child">
-                <p class="block-title">
-                    <span class="fas fa-handshake fa-lg"></span>
-                </p>
-                <p class="block-text">
-                    Outreach<br /><br />
-                    <span>
-                    </span>
-                </p>
-            </div>
-        </a>
-    </div>
-    <div class="block-child-container block-six">
-        <a href="/#contact">
-            <div class="block-child">
-                <p class="block-title">
-                    <span class="fas fa-address-book fa-lg"></span>
-                </p>
-                <p class="block-text">
-                    Contact Us<br /><br />
-                    <span>
-                    </span>
-                </p>
-            </div>
-        </a>
-    </div>
-
-</div>
-
-<style>
-    .wg-blocks>.container {
-        margin-left: 0;
-        padding-left: 0;
-        overflow-x: hidden;
-        max-width: 100%;
-    }
-
-    .blocks {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-        grid-gap: 0px;
-        width: 100vw;
-        height: 40vh;
-    }
-
-    .block-title {
-        text-align: center;
-        padding-top: 50px;
-        color: hsl(0, 0%, 94%);
-        font-size: 20px;
-        font-weight: 10;
-    }
-
-    .block-text {
-        text-align: center;
-        padding-top: 10px;
-        font-size: medium;
-        color: hsl(0, 0%, 94%);
-    }
-
-
-    @media (min-width: 768px) {
-        .block-title {
-            font-size: 50px;
-        }
-
-        .block-text {
-            font-size: x-large;
-            font-weight: 30;
-        }
-    }
-
-    .block-child-container {
-        position: relative;
-    }
-
-    .block-child {
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        margin: auto;
-        height: 275px;
-         
-    }
-
-    .block-one {
-        grid-column: 1 / 2;
-        grid-row: 1;
-        background-image: linear-gradient(hsl(198, 94%, 14%), rgba(0, 0, 0, 0.6)), url(https://goodwillcomputinglabs.github.io/img/block1.jpg);
-        background-size: cover;
-    }
-
-    .block-two {
-        grid-column: 2 / 3;
-        grid-row: 1;
-        background-image: linear-gradient(hsl(55, 60%, 44%), rgba(0, 0, 0, 0.6)), url(https://goodwillcomputinglabs.github.io/img/block2.jpg);
-        background-color: hsl(55, 60%, 44%);
-        background-size: cover;
-    }
-
-    .block-three {
-        grid-column: 3 / 4;
-        grid-row: 1;
-        background-image: linear-gradient(hsl(195, 61%, 46%), rgba(0, 0, 0, 0.6)), url(https://goodwillcomputinglabs.github.io/img/block3.jpg);
-        background-color: hsl(195, 61%, 46%);
-        background-size: cover;
-    }
-
-    .block-four {
-        grid-column: 4 / 5;
-        grid-row: 1;
-        background-image: linear-gradient(hsl(350, 97%, 12%), rgba(0, 0, 0, 0.6)), url(https://goodwillcomputinglabs.github.io/img/block4.jpg);
-        background-color: hsl(350, 97%, 12%);
-        background-size: cover;
-    }
-
-    .block-five {
-        grid-column: 5 / 6;
-        grid-row: 1;
-        background-image: linear-gradient(hsl(198, 94%, 14%), rgba(0, 0, 0, 0.6)), url(https://goodwillcomputinglabs.github.io/img/block1.jpg);
-        background-size: cover;
-    }
-
-    .block-six {
-        grid-column: 6 / 7;
-        grid-row: 1;
-        background-image: linear-gradient(hsl(55, 60%, 44%), rgba(0, 0, 0, 0.6)), url(https://goodwillcomputinglabs.github.io/img/block2.jpg);
-        background-color: hsl(55, 60%, 44%);
-        background-size: cover;
-    }
-</style>
-
-    </div>
   </section>
 
   
