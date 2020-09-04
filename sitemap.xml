@@ -18,7 +18,17 @@
   </url>
   
   <url>
+    <loc>https://goodwillcomputinglab.github.io/research/research-topic-1/</loc>
+    <lastmod>2020-08-28T14:20:30-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://goodwillcomputinglab.github.io/post/post1/</loc>
+    <lastmod>2020-08-28T14:20:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goodwillcomputinglab.github.io/research/</loc>
     <lastmod>2020-08-28T14:20:30-04:00</lastmod>
   </url>
   
@@ -269,6 +279,11 @@
   
   <url>
     <loc>https://goodwillcomputinglab.github.io/author/janki-bhimani/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goodwillcomputinglab.github.io/people/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
