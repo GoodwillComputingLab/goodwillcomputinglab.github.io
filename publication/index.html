@@ -247,7 +247,7 @@
   
   <meta property="og:site_name" content="Goodwill Computing Lab">
   <meta property="og:url" content="https://goodwillcomputinglab.github.io/publication/">
-  <meta property="og:title" content="Publications | Goodwill Computing Lab">
+  <meta property="og:title" content="All Publications | Goodwill Computing Lab">
   <meta property="og:description" content="Masters Student (Fall 2017-Present)"><meta property="og:image" content="https://goodwillcomputinglab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://goodwillcomputinglab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
@@ -268,7 +268,7 @@
 
 
 
-  <title>Publications | Goodwill Computing Lab</title>
+  <title>All Publications | Goodwill Computing Lab</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -403,7 +403,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link  active" href="/publication/"><span>Publications</span></a>
+          <a class="nav-link " href="/recent-publication/"><span>Publications</span></a>
         </li>
 
         
@@ -540,29 +540,8 @@
   
 
 
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-<div class="universal-wrapper pt-3">
-  <h1>Publications</h1>
-
-  
-
-  
+<div class="header">
+  <h1>All Publications</h1>
 </div>
 
 
@@ -6972,8 +6951,8 @@
 </div>
 <script>
   function toggle_visibility(id) {
-    let e = document.getElementById(id+"-abstract");
-    let citeDiv = document.getElementById(id+"-cite-div");
+    let e = document.getElementById(id + "-abstract");
+    let citeDiv = document.getElementById(id + "-cite-div");
     let $grid_pubs = $('#container-publications');
     if (e.style.display == 'block') {
       e.style.display = 'none';
@@ -6988,9 +6967,9 @@
 
   function toggle_cite(id) {
     let $grid_pubs = $('#container-publications');
-    let abstractDiv = document.getElementById(id+"-abstract");
-    let citeDiv = document.getElementById(id+"-cite-div");
-    let citeTarget = document.getElementById(id+"-cite");
+    let abstractDiv = document.getElementById(id + "-abstract");
+    let citeDiv = document.getElementById(id + "-cite-div");
+    let citeTarget = document.getElementById(id + "-cite");
     let $citeTarget = $(citeTarget);
     let filename = $citeTarget.attr('data-filename');
     if (citeDiv.style.display == 'block') {
@@ -7005,19 +6984,24 @@
       })
     }
   }
-
 </script>
 <style>
   .abstract {
     font-size: 16px;
   }
 
-  .fa-angle-right {
-    padding-left: 5px;
+  .header {
+    padding-left: 10%;
+    padding-bottom: 15px;
+    padding-top: 2px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    margin-right: 0;
+    background-color: maroon;
   }
 
-  .fa-angle-down {
-    padding-left: 5px;
+  .header>h1 {
+    color: white
   }
 </style>
 
