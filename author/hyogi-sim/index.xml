@@ -5,12 +5,52 @@
     <link>https://goodwillcomputinglab.github.io/author/hyogi-sim/</link>
       <atom:link href="https://goodwillcomputinglab.github.io/author/hyogi-sim/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyogi Sim</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://goodwillcomputinglab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Hyogi Sim</title>
       <link>https://goodwillcomputinglab.github.io/author/hyogi-sim/</link>
     </image>
+    
+    <item>
+      <title>DISQ: A Novel Quantum Output State Classification Method on IBM Quantum Computers using OpenPulse (Best Paper Finalist)</title>
+      <link>https://goodwillcomputinglab.github.io/publication/temp4/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/temp4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Evaluation of NISQ Quantum Computers: Error Measurement, Characterization, and Implications (Best Paper Finalist, Best Student Paper Finalist)</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-journalstpds-temp/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-journalstpds-temp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification and Implications</title>
+      <link>https://goodwillcomputinglab.github.io/publication/temp3/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/temp3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UREQA: Leveraging Operation-Aware Error Rates for Effective Quantum Circuit Mapping on NISQ-Era Quantum Computers</title>
+      <link>https://goodwillcomputinglab.github.io/publication/temp5/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/temp5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VERITAS: Accurately Estimating the Correct Output on Noisy Intermediate-Scale Quantum Computers</title>
+      <link>https://goodwillcomputinglab.github.io/publication/temp2/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/temp2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Analysis Workflow-Aware Storage System for Multi-Core Active Flash Arrays</title>
