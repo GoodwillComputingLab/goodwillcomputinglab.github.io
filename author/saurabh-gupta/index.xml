@@ -5,7 +5,7 @@
     <link>https://goodwillcomputinglab.github.io/author/saurabh-gupta/</link>
       <atom:link href="https://goodwillcomputinglab.github.io/author/saurabh-gupta/index.xml" rel="self" type="application/rss+xml" />
     <description>Saurabh Gupta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://goodwillcomputinglab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Saurabh Gupta</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Exploring the Optimal Platform Configuration for Power-Constrained HPC Workflows</title>
-      <link>https://goodwillcomputinglab.github.io/publication/dblp-conficccn-tang-hgvt-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conficccn-tang-hgvt-18/</guid>
+      <title>Machine Learning Models for GPU Error Prediction in a Large Scale HPC System</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-nie-xgpest-18/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-nie-xgpest-18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Machine Learning Models for GPU Error Prediction in a Large Scale HPC System</title>
-      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-nie-xgpest-18/</link>
+      <title>Exploring the Optimal Platform Configuration for Power-Constrained HPC Workflows</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conficccn-tang-hgvt-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-nie-xgpest-18/</guid>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conficccn-tang-hgvt-18/</guid>
       <description></description>
     </item>
     
@@ -37,9 +37,17 @@
     </item>
     
     <item>
+      <title>Failures in large scale systems: long-term measurement, analysis, and implications</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-gupta-pet-17/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-gupta-pet-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Characterizing Temperature, Power, and Soft-Error Behaviors in Data Center Systems: Insights, Challenges, and Opportunities</title>
       <link>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-nie-xgest-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-nie-xgest-17/</guid>
       <description></description>
     </item>
@@ -53,18 +61,26 @@
     </item>
     
     <item>
-      <title>Failures in large scale systems: long-term measurement, analysis, and implications</title>
-      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-gupta-pet-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-gupta-pet-17/</guid>
+      <title>A large-scale study of soft-errors on GPUs in the field</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-nie-tgsr-16/</link>
+      <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-nie-tgsr-16/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A large-scale study of soft-errors on GPUs in the field</title>
-      <link>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-nie-tgsr-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-nie-tgsr-16/</guid>
+      <title>Reducing Waste in Extreme Scale Systems through Introspective Analysis</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confipps-bautista-gomez-g-16/</link>
+      <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confipps-bautista-gomez-g-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-Capping Aware Checkpointing: On the Interplay Among Power-Capping, Temperature, Reliability, Performance, and Energy</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-tang-tghleh-16/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-tang-tghleh-16/</guid>
       <description></description>
     </item>
     
@@ -73,22 +89,6 @@
       <link>https://goodwillcomputinglab.github.io/publication/dblp-conficac-kelley-stg-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://goodwillcomputinglab.github.io/publication/dblp-conficac-kelley-stg-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power-Capping Aware Checkpointing: On the Interplay Among Power-Capping, Temperature, Reliability, Performance, and Energy</title>
-      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-tang-tghleh-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-tang-tghleh-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reducing Waste in Extreme Scale Systems through Introspective Analysis</title>
-      <link>https://goodwillcomputinglab.github.io/publication/dblp-confipps-bautista-gomez-g-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confipps-bautista-gomez-g-16/</guid>
       <description></description>
     </item>
     

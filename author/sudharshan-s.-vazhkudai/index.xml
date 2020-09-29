@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>DISQ: A Novel Quantum Output State Classification Method on IBM Quantum Computers using OpenPulse (Best Paper Finalist)</title>
-      <link>https://goodwillcomputinglab.github.io/publication/temp4/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://goodwillcomputinglab.github.io/publication/temp4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Experimental Evaluation of NISQ Quantum Computers: Error Measurement, Characterization, and Implications (Best Paper Finalist, Best Student Paper Finalist)</title>
       <link>https://goodwillcomputinglab.github.io/publication/dblp-journalstpds-temp/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
@@ -29,26 +21,34 @@
     </item>
     
     <item>
+      <title>VERITAS: Accurately Estimating the Correct Output on Noisy Intermediate-Scale Quantum Computers</title>
+      <link>https://goodwillcomputinglab.github.io/publication/temp2/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/temp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification and Implications</title>
       <link>https://goodwillcomputinglab.github.io/publication/temp3/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://goodwillcomputinglab.github.io/publication/temp3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DISQ: A Novel Quantum Output State Classification Method on IBM Quantum Computers using OpenPulse (Best Paper Finalist)</title>
+      <link>https://goodwillcomputinglab.github.io/publication/temp4/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/temp4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UREQA: Leveraging Operation-Aware Error Rates for Effective Quantum Circuit Mapping on NISQ-Era Quantum Computers</title>
       <link>https://goodwillcomputinglab.github.io/publication/temp5/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://goodwillcomputinglab.github.io/publication/temp5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VERITAS: Accurately Estimating the Correct Output on Noisy Intermediate-Scale Quantum Computers</title>
-      <link>https://goodwillcomputinglab.github.io/publication/temp2/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://goodwillcomputinglab.github.io/publication/temp2/</guid>
       <description></description>
     </item>
     
@@ -69,17 +69,9 @@
     </item>
     
     <item>
-      <title>Effective Running of End-to-End HPC Workflows on Emerging Heterogeneous Architectures</title>
-      <link>https://goodwillcomputinglab.github.io/publication/dblp-confcluster-tang-tgvh-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confcluster-tang-tgvh-17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GUIDE: a scalable information directory service to collect, federate, and analyze logs for operational insights into a leadership HPC facility</title>
       <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-vazhkudai-mtzwog-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-vazhkudai-mtzwog-17/</guid>
       <description></description>
     </item>
@@ -87,8 +79,16 @@
     <item>
       <title>Toward Managing HPC Burst Buffers Effectively: Draining Strategy to Regulate Bursty I/O Behavior</title>
       <link>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-tang-hhlvt-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-tang-hhlvt-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Running of End-to-End HPC Workflows on Emerging Heterogeneous Architectures</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confcluster-tang-tgvh-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confcluster-tang-tgvh-17/</guid>
       <description></description>
     </item>
     

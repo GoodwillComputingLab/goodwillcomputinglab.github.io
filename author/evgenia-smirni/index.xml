@@ -5,7 +5,7 @@
     <link>https://goodwillcomputinglab.github.io/author/evgenia-smirni/</link>
       <atom:link href="https://goodwillcomputinglab.github.io/author/evgenia-smirni/index.xml" rel="self" type="application/rss+xml" />
     <description>Evgenia Smirni</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://goodwillcomputinglab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Evgenia Smirni</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Machine Learning Models for GPU Error Prediction in a Large Scale HPC System</title>
       <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-nie-xgpest-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-nie-xgpest-18/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Characterizing Temperature, Power, and Soft-Error Behaviors in Data Center Systems: Insights, Challenges, and Opportunities</title>
       <link>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-nie-xgest-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-nie-xgest-17/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>A large-scale study of soft-errors on GPUs in the field</title>
       <link>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-nie-tgsr-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-nie-tgsr-16/</guid>
       <description></description>
     </item>

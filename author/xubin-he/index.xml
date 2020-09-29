@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Toward Managing HPC Burst Buffers Effectively: Draining Strategy to Regulate Bursty I/O Behavior</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-tang-hhlvt-17/</link>
+      <pubDate>Sun, 29 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-tang-hhlvt-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Effective Running of End-to-End HPC Workflows on Emerging Heterogeneous Architectures</title>
       <link>https://goodwillcomputinglab.github.io/publication/dblp-confcluster-tang-tgvh-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -29,17 +37,9 @@
     </item>
     
     <item>
-      <title>Toward Managing HPC Burst Buffers Effectively: Draining Strategy to Regulate Bursty I/O Behavior</title>
-      <link>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-tang-hhlvt-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confmascots-tang-hhlvt-17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Power-Capping Aware Checkpointing: On the Interplay Among Power-Capping, Temperature, Reliability, Performance, and Energy</title>
       <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-tang-tghleh-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-tang-tghleh-16/</guid>
       <description></description>
     </item>
