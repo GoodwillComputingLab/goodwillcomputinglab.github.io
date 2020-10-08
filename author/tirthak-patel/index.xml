@@ -5,12 +5,116 @@
     <link>https://goodwillcomputinglab.github.io/author/tirthak-patel/</link>
       <atom:link href="https://goodwillcomputinglab.github.io/author/tirthak-patel/index.xml" rel="self" type="application/rss+xml" />
     <description>Tirthak Patel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://goodwillcomputinglab.github.io/images/icon_hu45ac71144705710c3d7ad8da46e18545_4491_512x512_fill_lanczos_center_2.png</url>
       <title>Tirthak Patel</title>
       <link>https://goodwillcomputinglab.github.io/author/tirthak-patel/</link>
     </image>
+    
+    <item>
+      <title>Uncovering Access, Reuse, and Sharing Characteristics of I/O-Intensive Files on Large-Scale Production HPC Systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conffast-patel-blwcrt-20/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conffast-patel-blwcrt-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Disk Failure Predictions SMARTer!</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conffast-lu-lpyts-20/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conffast-lu-lpyts-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIFT: A Coupon Based Throttle-and-Reward Mechanism for Fair and Efficient I/O Bandwidth Management on Parallel Storage Systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-conffast-patel-0-t-20/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-conffast-patel-0-t-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLITE: Efficient and QoS-Aware Co-Location of Multiple Latency-Critical Jobs for Warehouse Scale Computers</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-patel-t-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confhpca-patel-t-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilience and coevolution of preferential interdependent networks</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-journalssnam-ganguly-mpst-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-journalssnam-ganguly-mpst-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What does Power Consumption Behavior of HPC Jobs Reveal? : Demystifying, Quantifying, and Predicting Power Consumption Characteristics</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confipps-patel-wehzt-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confipps-patel-wehzt-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What does Vibration do to Your SSD?</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdac-bhimani-pmt-19/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdac-bhimani-pmt-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting I/O behavior in large-scale storage systems: the expected and the unexpected</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-patel-blt-19/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-patel-blt-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PERQ: Fair and Efficient Power Management of Power-Constrained Large-Scale Computing Systems</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confhpdc-patel-t-19/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confhpdc-patel-t-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Models for GPU Error Prediction in a Large Scale HPC System</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-nie-xgpest-18/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-nie-xgpest-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiraz: Exploiting System Reliability and Application Resilience Characteristics to Improve Large Scale System Throughput</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-garg-pct-18/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-garg-pct-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Analyzing Interconnect Errors and Network Congestion on a Large Scale HPC System</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-kumar-gpwsfet-18/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confdsn-kumar-gpwsfet-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Failures in large scale systems: long-term measurement, analysis, and implications</title>
+      <link>https://goodwillcomputinglab.github.io/publication/dblp-confsc-gupta-pet-17/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://goodwillcomputinglab.github.io/publication/dblp-confsc-gupta-pet-17/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
