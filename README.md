@@ -1,1 +1,2 @@
-# goodwillcomputinglab.github.io
+# Goodwill Lab Website
+

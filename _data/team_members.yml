@@ -1,0 +1,85 @@
+
+pi:
+  name: Dr. Devesh Tiwari
+  photo: 
+  email: name@example.com
+
+student_categories:
+  - text: "Ph.D. Thinkers"
+    individuals:
+      - name: Tirthak Patel
+        photo: tirthak_patel.jpg
+        webpage: https://www.tirthakpatel.com/
+        email: tirthak.patel@rice.edu
+
+      - name: Baolin Li
+        photo: baolin_li.jpg
+        webpage: https://baolin-li.netlify.app/
+        email: li.baol@northeastern.edu
+
+      - name: Rohan Basu Roy 
+        photo: rohan_basuroy.jpg
+        webpage: https://rohanbasuroy.github.io/
+        email: basuroy.r@northeastern.edu
+
+      - name: Ana Veroneze Solórzano 
+        photo: ana_solarzano.jpg
+        webpage: http://linkedin.com/in/anavs/
+        email: 
+
+      - name: Jack Harwood 
+        photo: 
+        webpage:
+        email: FIX ME
+
+      - name: Harshitta Gandhi
+        photo: 
+        webpage:
+        email: name@example.com
+
+      - name: Dan Silver
+        photo: 
+        webpage: 
+        email: FIX ME
+
+      - name: Aditya Ranjan
+        photo: 
+        webpage:
+        email: FIX ME
+
+      - name: Kausalya Sankaranarayanan
+        photo: kausalya_sankaranarayanan.jpg
+        webpage:
+        email: sankaranarayanan.k@northeastern.edu
+
+      - name: Rui Li
+        photo: 
+        webpage: 
+        email: FIX ME
+
+  # - text: "Master Doers"
+  #   individuals:
+
+  - text: "Undergraduate Explorers"
+    individuals:
+      - name: William Cutler
+        photo: william_cutler.jpg
+        webpage: https://www.linkedin.com/in/william-r-cutler/
+        email: cutler.wi@northeastern.edu
+
+      - name: Daniel Wang
+        photo: 
+        webpage: 
+        email: FIX ME
+
+friends:
+  - name: Sidi Lu
+    info: PhD Candidate, Wayne State University
+  - name: Rohan Garg
+    info: Nutanix
+  - name: Janki Bhimani
+    info: Assistant Professor, Florida International University
+  - name: Emily Costa
+    info: Indeed
+  - name: Fritz Prevlion
+    info: ARM
