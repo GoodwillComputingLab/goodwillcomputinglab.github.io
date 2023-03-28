@@ -1,8 +1,8 @@
 
 pi:
   name: Dr. Devesh Tiwari
-  photo: 
-  email: name@example.com
+  photo: devesh_tiwari.jpg
+  email: d.tiwari@northeastern.edu
 
 student_categories:
   - text: "Ph.D. Thinkers"
@@ -25,7 +25,7 @@ student_categories:
       - name: Ana Veroneze Solórzano 
         photo: ana_solarzano.jpg
         webpage: http://linkedin.com/in/anavs/
-        email: 
+        email: solorzano.an@northeastern.edu
 
       - name: Jack Harwood 
         photo: 
@@ -35,17 +35,17 @@ student_categories:
       - name: Harshitta Gandhi
         photo: 
         webpage:
-        email: name@example.com
+        email: gandhi.ha@northeastern.edu
 
       - name: Dan Silver
         photo: 
         webpage: 
-        email: FIX ME
+        email: silver.da@northeastern.edu
 
       - name: Aditya Ranjan
         photo: 
         webpage:
-        email: FIX ME
+        email: ranjan.ad@northeastern.edu
 
       - name: Kausalya Sankaranarayanan
         photo: kausalya_sankaranarayanan.jpg
@@ -53,9 +53,9 @@ student_categories:
         email: sankaranarayanan.k@northeastern.edu
 
       - name: Rui Li
-        photo: 
-        webpage: 
-        email: FIX ME
+        photo: rui_li.jpg
+        webpage: https://liruivah.github.io/
+        email: li.rui8@northeastern.edu
 
   # - text: "Master Doers"
   #   individuals:
@@ -70,7 +70,7 @@ student_categories:
       - name: Daniel Wang
         photo: 
         webpage: 
-        email: FIX ME
+        email: wang.danie@northeastern.edu
 
 friends:
   - name: Sidi Lu

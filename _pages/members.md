@@ -5,6 +5,7 @@ excerpt: "Goodwill Lab: Group members"
 sitemap: false
 permalink: /members/
 ---
+
 # Group Members
 
 ### Principal Investigator
@@ -12,6 +13,7 @@ permalink: /members/
 <div class="row">
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ site.data.team_members.pi.photo }}" class="img-responsive" style="float: left; border-radius: 50%; height: 100px; width: 100px; object-fit: cover; overflow: hidden;" />
+
   <h4>{{ site.data.team_members.pi.name }}</h4>
   
   <i>{{ site.data.team_members.pi.email }}</i>
@@ -35,8 +37,10 @@ permalink: /members/
   {% if member.photo == nil %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/bio-photo.jpg" class="img-responsive" style="float: left; border-radius: 50%; height: 100px; width: 100px; object-fit: cover; overflow: hidden;" />  
   {% else %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="float: left; border-radius: 50%; height: 100px; width: 100px; object-fit: cover; overflow: hidden;" />
-  {% endif %}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="float: left; border-radius: 50%; height: 100px; width: 100px; object-fit: cover; overflow: hidden; image-rendering: -webkit-optimize-contrast;" />
+
+{% endif %}
+
   <h4>{{ member.name }}</h4>
   {% if member.webpage == nil %}
   <a href="{{ site.url }}{{ site.baseurl }}/" style="color: blue;">Home Page</a>
@@ -46,9 +50,9 @@ permalink: /members/
   <i>{{ member.email }}</i>
   </div>
 
-  {% assign number_printed = number_printed | plus: 1 %}
+{% assign number_printed = number_printed | plus: 1 %}
 
-  {% if even_odd == 1 %}
+{% if even_odd == 1 %}
 
   </div>
   {% endif %}
@@ -61,7 +65,6 @@ permalink: /members/
 </div>
 {% endif %}
 {% endfor %}
-
 
 ### Goodwill Lab Friends
 
