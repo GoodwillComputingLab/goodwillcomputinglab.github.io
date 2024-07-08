@@ -74,8 +74,8 @@ $line-height-computed:    floor(($font-size-base * $line-height-base)) !default;
 
 //** By default, this inherits from the `<body>`.
 $headings-font-family:    inherit !default;
-$headings-font-weight:    400 !default;
-$headings-line-height:    1.1 !default;
+$headings-font-weight:    600 !default;
+$headings-line-height:    0.5 !default;
 $headings-color:          $gray-dark !default;
 
 
@@ -330,9 +330,9 @@ $screen-md-max:              ($screen-lg-min - 1) !default;
 //## Define your custom responsive grid.
 
 //** Number of columns in the grid.
-$grid-columns:              12 !default;
+$grid-columns:              12   !default;
 //** Padding between columns. Gets divided in half for the left and right.
-$grid-gutter-width:         30px !default;
+$grid-gutter-width:         200px !default;
 // Navbar collapse
 //** Point at which the navbar becomes uncollapsed.
 $grid-float-breakpoint:     $screen-sm-min !default;
@@ -365,7 +365,7 @@ $container-lg:                 $container-large-desktop !default;
 //##
 
 // Basics of a navbar
-$navbar-height:                    50px !default;
+$navbar-height:                    45px !default;
 $navbar-margin-bottom:             $line-height-computed !default;
 $navbar-border-radius:             $border-radius-base !default;
 $navbar-padding-horizontal:        floor(($grid-gutter-width / 2)) !default;
