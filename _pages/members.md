@@ -41,13 +41,15 @@ permalink: /members/
 
 {% endif %}
 
-  <h4>{{ member.name }}</h4>
-  {% if member.webpage == nil %}
-  <a href="{{ site.url }}{{ site.baseurl }}/" style="color: blue;">Home Page</a>
+  {{ member.name}}<br/>
+  <!-- {% if member.webpage == nil %}
+  <a href="{{ site.url }}{{ site.baseurl }}/" style="color: blue;">Home Page</a><br/>
   {% else %}
-  <a href="{{ member.webpage }}" style="color: blue;">Home Page</a>
-  {% endif %}
-  <i>{{ member.email }}</i>
+  <a href="{{ member.webpage }}" style="color: blue;">Home Page</a><br/>
+  {% endif %} -->
+    <a href="{{ member.webpage }}" style="color: blue;">Home Page</a><br/>
+  <i>{{ member.email }}</i><br/>
+  <i>{{member.position}}</i>
   </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
