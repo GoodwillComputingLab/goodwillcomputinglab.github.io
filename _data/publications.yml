@@ -12,11 +12,18 @@
 
   - conference: "SC 2024 (c)"
     paper: "Incentive-Based Power Efficiency Mechanisms on the Fugaku Supercomputer."
-    authors: "Ana Luisa Veroneze Solorzan, Kento Sato, Devesh Tiwari, Keiji Yamamoto, Jim Brandt, Benjamin Schwaller, Sara Petra Walton,Jennifer Green, Fumiyoshi Shoji."
+    authors: "Ana Luisa Veroneze Solorzan, Kento Sato, Devesh Tiwari, Keiji Yamamoto, Jim Brandt, Benjamin Schwaller, Sara Petra Walton, Jennifer Green, Fumiyoshi Shoji."
   
   - conference: "SC 2024 (d)"
     paper: "Stellaris: Staleness-aware Distributed Reinforcement Learning with Serverless Computing."
     authors: "Hanfei Yu, Hao Wang, Jian Li, Seung-Jong Park, Devesh Tiwari."
+
+  - conference: "IPDPS 2024"
+    paper: "Interpretable Analysis of Production GPU Clusters Monitoring Data via Association Rule Mining."
+    authors: "Baolin Li, Siddharth Samsi, Vijay Gadepally, Devesh Tiwari."
+    paper-link: https://baolin-li.netlify.app/uploads/IPDPS2024_GPU_Datacenter.pdf
+    code-link: https://github.com/boringlee24/ipdps24-datacenter
+    slides-link: https://baolin-li.netlify.app/uploads/IPDPS24_Mining_Slides.pdf
 
   - conference: "SIGMETRICS 2024"
     paper: "StarShip: Mitigating I/O Bottlenecks in Serverless Computing for Scientific Workflows."
@@ -47,6 +54,25 @@
 - year:
   text: "2023"
   elements:
+
+  - conference: "SC 2023 (a)"
+    paper: "GRAPHINE: Generating Application-Specific Neutral Atom Topologies for Improved Quantum Computing Performance."
+    authors: "Tirthak Patel, Daniel Silver, Devesh Tiwari."
+    paper-link: https://dl.acm.org/doi/pdf/10.1145/3581784.3607032
+    code-link: https://zenodo.org/records/8307292
+
+  - conference: "SC 2023 (b)"
+    paper: "Clover: Toward Sustainable AI with Carbon-Aware Machine Learning Inference Service."
+    authors: "Baolin Li, Siddharth Samsi, Vijay Gadepally, Devesh Tiwari"
+    paper-link: https://arxiv.org/pdf/2304.09781
+    code-link: https://github.com/boringlee24/sc23-clover
+    slides-link: https://baolin-li.netlify.app/uploads/SC23_Clover_Slides.pdf
+    
+
+  - conference: "SC 2023 (c)"
+
+
+
   - conference: "AAAI 2023"
     paper: "SLIQ: Resource-Efficient Quantum Similarity Networks for Unlabeled Data on Noisy Quantum Computers."
     authors: "Daniel Silver, Tirthak Patel, Aditya Ranjan, Harshitta Gandhi, William Cutler, Devesh Tiwari"
