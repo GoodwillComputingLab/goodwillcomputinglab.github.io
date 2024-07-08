@@ -29,6 +29,7 @@
 // styling of responsive aspects.
 
 .navbar-header {
+  // font-family:"Montserrat";
   @include clearfix;
 
   @media (min-width: $grid-float-breakpoint) {
@@ -48,6 +49,7 @@
 // content for the user's viewport.
 
 .navbar-collapse {
+  font-family: "Montserrat";
   overflow-x: visible;
   padding-right: $navbar-padding-horizontal;
   padding-left:  $navbar-padding-horizontal;
