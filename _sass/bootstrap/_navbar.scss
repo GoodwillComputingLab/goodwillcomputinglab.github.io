@@ -29,7 +29,7 @@
 // styling of responsive aspects.
 
 .navbar-header {
-  // font-family:"Montserrat";
+  font-family:"Montserrat";
   @include clearfix;
 
   @media (min-width: $grid-float-breakpoint) {
