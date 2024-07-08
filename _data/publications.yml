@@ -1,9 +1,55 @@
 - year:
+  text: "2024"
+  elements:
+
+  - conference: "SC 2024 (a)"
+    paper: "LexiQL: Quantum Natural Language Processing on NISQ-era Machines."
+    authors: "Daniel Silver, Aditya Ranjan, Rakesh Achutha, Tirthak Patel, Devesh Tiwari."
+
+  - conference: "SC 2024 (b)"
+    paper: "ECO-LIFE: High-Performance and Carbon-Aware Serverless Workloads Scheduling via Multi-generation Hardware."
+    authors: "Yankai Jiang, Baolin Li, Rohan Basu Roy, Devesh Tiwari."
+
+  - conference: "SC 2024 (c)"
+    paper: "Incentive-Based Power Efficiency Mechanisms on the Fugaku Supercomputer."
+    authors: "Ana Luisa Veroneze Solorzan, Kento Sato, Devesh Tiwari, Keiji Yamamoto, Jim Brandt, Benjamin Schwaller, Sara Petra Walton,Jennifer Green, Fumiyoshi Shoji."
+  
+  - conference: "SC 2024 (d)"
+    paper: "Stellaris: Staleness-aware Distributed Reinforcement Learning with Serverless Computing."
+    authors: "Hanfei Yu, Hao Wang, Jian Li, Seung-Jong Park, Devesh Tiwari."
+
+  - conference: "SIGMETRICS 2024"
+    paper: "StarShip: Mitigating I/O Bottlenecks in Serverless Computing for Scientific Workflows."
+    paper-link: "https://dl.acm.org/doi/pdf/10.1145/3639028"
+    code-link: "https://zenodo.org/records/11480216"
+    authors: "Rohan Basu Roy, Devesh Tiwari."
+
+  - conference: "ASPLOS 2024 (a)"
+    paper: "CodeCrunch: Improving Serverless Performance via Function Compression and Cost-Aware Warmup Location Optimization."
+    paper-link: "https://dl.acm.org/doi/pdf/10.1145/3617232.3624866"
+    code-link: "https://zenodo.org/records/10055340"
+    authors: "Rohan Basu Roy, Tirthak Patel, Rohan Garg, Devesh Tiwari"
+  - conference: "ASPLOS 2024 (b)"
+    paper: "RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing."
+    paper-link: "https://dl.acm.org/doi/pdf/10.1145/3617232.3624871"
+    code-link: "https://github.com/IntelliSys-Lab/RainbowCake-ASPLOS24/tree/RainbowCake-ASPLOS24"
+    authors: "Hanfei Yu, Rohan Basu Roy, Christian Fontenot, Devesh Tiwari, Jian Li, Hong Zhang, Hao Wang, Seung-Jong Park."
+
+  - conference: "ArXiv"
+    paper: "Toward Sustainable GenAI using Generation Directives for Carbon-Friendly Large Language Model Inference."
+    paper-link: "https://arxiv.org/pdf/2403.12900"   # code-link: ""
+    authors: "Baolin Li, Yankai Jiang,} Vijay Gadepally, Devesh Tiwari."
+
+  - conference: "FGCS"
+    paper: "The Globus Compute Dataset: An Open Function-as-a-Service Dataset from the Edge to the Cloud"
+    authors: "André Bauer, Haochen Pan, Ryan Chard, Yadu N. Babuji, Josh Bryan, Devesh Tiwari, Ian T. Foster, Kyle Chard"
+
+- year:
   text: "2023"
   elements:
   - conference: "AAAI 2023"
     paper: "SLIQ: Resource-Efficient Quantum Similarity Networks for Unlabeled Data on Noisy Quantum Computers."
-    link: "MISSING PAPER LINKS"
+    authors: "Daniel Silver, Tirthak Patel, Aditya Ranjan, Harshitta Gandhi, William Cutler, Devesh Tiwari"
 
 - year:  
   text: "2022"
