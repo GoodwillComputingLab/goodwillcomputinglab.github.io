@@ -111,11 +111,11 @@
     paper: "Invited: Building Robust Quantum System Software for Technology-Specific Characteristics."
     authors: "Tirthak Patel, Devesh Tiwari."
 
-  -conference: "HPEC 2023"
+  - conference: "HPEC 2023"
     paper: "From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference."
     authors: "Siddharth Samsi, Dan Zhao, Joseph McDonald, Baolin Li, Adam Michaleas, Michael Jones, William Bergeron, Jeremy Kepner, Devesh Tiwari, Vijay Gadepally. "
 
-  -conference: "ArXiv"
+  - conference: "ArXiv"
     paper: "Toward Privacy in Quantum Program Execution On Untrusted Quantum Cloud Computing Machines for Business-sensitive Quantum Needs."
     authors: "Tirthak Patel, Daniel Silver, Aditya Ranjan, Harshitta Gandhi, William Cutler, Devesh Tiwari."
 
