@@ -43,7 +43,7 @@
     code-link: "https://github.com/IntelliSys-Lab/RainbowCake-ASPLOS24/tree/RainbowCake-ASPLOS24"
     authors: "Hanfei Yu, Rohan Basu Roy, Christian Fontenot, Devesh Tiwari, Jian Li, Hong Zhang, Hao Wang, Seung-Jong Park."
 
-    - conference: "HotCarbon Workshop"
+  - conference: "HotCarbon Workshop"
     paper: "Carbon in Motion: Characterizing Open-Sora on the Sustainability of Generative AI for Video Generation"
     authors: "Baolin Li, Yankai Jiang, Devesh Tiwari."
 
