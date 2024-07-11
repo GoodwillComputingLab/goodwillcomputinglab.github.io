@@ -8,7 +8,7 @@
 
   - conference: "SC 2024 (b)"
     paper: "ECO-LIFE: High-Performance and Carbon-Aware Serverless Workloads Scheduling via Multi-generation Hardware."
-    authors: "Yankai Jiang, Baolin Li, Rohan Basu Roy, Devesh Tiwari."
+    authors: "Yankai Jiang, Rohan Basu Roy, Baolin Li, Devesh Tiwari."
 
   - conference: "SC 2024 (c)"
     paper: "Incentive-Based Power Efficiency Mechanisms on the Fugaku Supercomputer."
@@ -36,16 +36,21 @@
     paper-link: "https://dl.acm.org/doi/pdf/10.1145/3617232.3624866"
     code-link: "https://zenodo.org/records/10055340"
     authors: "Rohan Basu Roy, Tirthak Patel, Rohan Garg, Devesh Tiwari"
+
   - conference: "ASPLOS 2024 (b)"
     paper: "RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing."
     paper-link: "https://dl.acm.org/doi/pdf/10.1145/3617232.3624871"
     code-link: "https://github.com/IntelliSys-Lab/RainbowCake-ASPLOS24/tree/RainbowCake-ASPLOS24"
     authors: "Hanfei Yu, Rohan Basu Roy, Christian Fontenot, Devesh Tiwari, Jian Li, Hong Zhang, Hao Wang, Seung-Jong Park."
 
+    - conference: "HotCarbon Workshop"
+    paper: "Carbon in Motion: Characterizing Open-Sora on the Sustainability of Generative AI for Video Generation"
+    authors: "Baolin Li, Yankai Jiang, Devesh Tiwari."
+
   - conference: "ArXiv"
     paper: "Toward Sustainable GenAI using Generation Directives for Carbon-Friendly Large Language Model Inference."
     paper-link: "https://arxiv.org/pdf/2403.12900"   # code-link: ""
-    authors: "Baolin Li, Yankai Jiang,} Vijay Gadepally, Devesh Tiwari."
+    authors: "Baolin Li, Yankai Jiang, Vijay Gadepally, Devesh Tiwari."
 
   - conference: "FGCS"
     paper: "The Globus Compute Dataset: An Open Function-as-a-Service Dataset from the Edge to the Cloud"
@@ -54,6 +59,8 @@
 - year:
   text: "2023"
   elements:
+
+  
 
   - conference: "SC 2023 (a)"
     paper: "GRAPHINE: Generating Application-Specific Neutral Atom Topologies for Improved Quantum Computing Performance."
@@ -70,12 +77,51 @@
     
 
   - conference: "SC 2023 (c)"
+    paper: "Comprehensive Experimental Evaluation and Analysis of a Universal Photonic Quantum Computer."
+    authors: "Aditya Ranjan, Tirthak Patel, Harshitta Gandhi, Daniel Silver, William Cutler, Devesh Tiwari."
 
+  - conference: "SC 2023 (d)"
+    paper: "Sustainable HPC: Modeling, Characterization, and Implications of Carbon Footprint in Modern HPC Systems."
+    authors: "Baolin Li, Rohan Basu Roy, Daniel Wong, Sid Samsi, Vijay Gadepally, Devesh Tiwari. "
 
-
+ 
   - conference: "AAAI 2023"
     paper: "SLIQ: Resource-Efficient Quantum Similarity Networks for Unlabeled Data on Noisy Quantum Computers."
     authors: "Daniel Silver, Tirthak Patel, Aditya Ranjan, Harshitta Gandhi, William Cutler, Devesh Tiwari"
+
+
+  - conference: "HPDC 2023 (a)"
+    paper: "Kairos: Building Cost-Efficient Machine Learning Inference Systems with Heterogeneous Cloud Resources."
+    authors: "Baolin Li, Sid Samsi, Vijay Gadepally, Devesh Tiwari."
+
+  - conference: "HPDC 2023 (b)"
+    paper: "ProPack: Executing Concurrent Serverless Functions Faster and Cheaper."
+    authors: "Rohan Basu Roy, Tirthak Patel, Richmond Liew, Yadu Nand Babuji, Ryan Chard, Devesh Tiwari."
+
+  - conference: "ECCV 2023"
+    paper: "MosaiQ: Enabling High-Quality Image Generation on Quantum Computers"
+    authors: "Daniel Silver, Tirthak Patel, William Cutler,Aditya Ranjan, Harshitta Gandhi, Devesh Tiwari."
+
+  - conference: "SoCC 2023"
+    paper: "Sustainable Supercomputing for AI: GPU Power Capping at HPC Scale."
+    authors: "Dan Zhao, Siddharth Samsi, Joseph McDonald, Baolin Li, David Bestor, Michael Jones, Devesh Tiwari, Vijay Gadepally."
+
+  - conference: "MICRO 2023"
+    paper: "SupeRBNN: Randomized Binary Neural Network Using Adiabatic Superconductor Josephson Devices."
+    authors: "Zhengang Li, Geng Yuan, Tomoharu Yamauchi, Masoud Zabihi, Yanyue Xie, Peiyan Dong, Xulong Tang, Nobuyuki Yoshikawa, Devesh Tiwari, Yanzhi Wang, Olivia Chen."
+
+  - conference: "DAC 2023"
+    paper: "Invited: Building Robust Quantum System Software for Technology-Specific Characteristics."
+    authors: "Tirthak Patel, Devesh Tiwari."
+
+  -conference: "HPEC 2023"
+    paper: "From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference."
+    authors: "Siddharth Samsi, Dan Zhao, Joseph McDonald, Baolin Li, Adam Michaleas, Michael Jones, William Bergeron, Jeremy Kepner, Devesh Tiwari, Vijay Gadepally. "
+
+  -conference: "ArXiv"
+    paper: "Toward Privacy in Quantum Program Execution On Untrusted Quantum Cloud Computing Machines for Business-sensitive Quantum Needs."
+    paper-link: "https://arxiv.org/pdf/2403.12900"   # code-link: ""
+    authors: "Tirthak Patel, Daniel Silver, Aditya Ranjan, Harshitta Gandhi, William Cutler, Devesh Tiwari."
 
 - year:  
   text: "2022"
