@@ -59,9 +59,6 @@
 - year:
   text: "2023"
   elements:
-
-  
-
   - conference: "SC 2023 (a)"
     paper: "GRAPHINE: Generating Application-Specific Neutral Atom Topologies for Improved Quantum Computing Performance."
     authors: "Tirthak Patel, Daniel Silver, Devesh Tiwari."
@@ -120,7 +117,6 @@
 
   -conference: "ArXiv"
     paper: "Toward Privacy in Quantum Program Execution On Untrusted Quantum Cloud Computing Machines for Business-sensitive Quantum Needs."
-    paper-link: "https://arxiv.org/pdf/2403.12900"   # code-link: ""
     authors: "Tirthak Patel, Daniel Silver, Aditya Ranjan, Harshitta Gandhi, William Cutler, Devesh Tiwari."
 
 - year:  
