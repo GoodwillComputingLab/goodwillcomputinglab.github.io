@@ -12,7 +12,7 @@
 
   - conference: "SC 2024 (c)"
     paper: "Incentive-Based Power Efficiency Mechanisms on the Fugaku Supercomputer."
-    authors: "Ana Luisa Veroneze Solorzan, Kento Sato, Devesh Tiwari, Keiji Yamamoto, Jim Brandt, Benjamin Schwaller, Sara Petra Walton, Jennifer Green, Fumiyoshi Shoji."
+    authors: "Ana Luisa Veroneze Solorzano, Kento Sato, Keiji Yamamoto, Jim Brandt, Benjamin Schwaller, Sara Petra Walton, Jennifer Green, Fumiyoshi Shoji, Devesh Tiwari."
   
   - conference: "SC 2024 (d)"
     paper: "Stellaris: Staleness-aware Distributed Reinforcement Learning with Serverless Computing."
