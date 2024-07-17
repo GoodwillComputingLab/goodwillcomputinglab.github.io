@@ -5,7 +5,7 @@ pi:
   email: d.tiwari@northeastern.edu
 
 student_categories:
-  - text: "Ph.D. Thinkers"
+  - text: "PhD Thinkers"
     individuals:
       - name: Rohan Basu Roy 
         photo: rohan_basuroy.jpg
@@ -42,7 +42,7 @@ student_categories:
         webpage: https://lukejyk.github.io
         email: jiang.yank@northeastern.edu
 
-  - text: "Alumni"
+  - text: "Goodwill PhD Alumni "
     individuals:
       - name: Tirthak Patel
         photo: tirthak_patel.jpg
