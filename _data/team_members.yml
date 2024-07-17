@@ -7,16 +7,6 @@ pi:
 student_categories:
   - text: "Ph.D. Thinkers"
     individuals:
-      # - name: Tirthak Patel
-      #   photo: tirthak_patel.jpg
-      #   webpage: https://www.tirthakpatel.com/
-      #   email: tirthak.patel@rice.edu
-
-      # - name: Baolin Li
-      #   photo: baolin_li.jpg
-      #   webpage: https://baolin-li.netlify.app/
-      #   email: li.baol@northeastern.edu
-
       - name: Rohan Basu Roy 
         photo: rohan_basuroy.jpg
         webpage: https://rohanbasuroy.github.io/
@@ -26,11 +16,6 @@ student_categories:
         photo: ana_solarzano.jpg
         webpage: http://linkedin.com/in/anavs/
         email: solorzano.an@northeastern.edu
-
-      - name: Harshitta Gandhi
-        photo: 
-        webpage:
-        email: gandhi.ha@northeastern.edu
 
       - name: Dan Silver
         photo: 
@@ -53,7 +38,7 @@ student_categories:
         email: li.rui8@northeastern.edu
 
       - name: Yankai Jiang
-        photo: 
+        photo: yankai_jiang.jpg
         webpage: https://lukejyk.github.io
         email: jiang.yank@northeastern.edu
 
