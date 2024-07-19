@@ -56,26 +56,21 @@ student_categories:
         email: li.baol@northeastern.edu 
         position: ML Engineer @ Netflix
 
-  - text: "Undergraduate Explorers"
-    individuals:
-      - name: William Cutler
-        photo: william_cutler.jpg
-        webpage: https://www.linkedin.com/in/william-r-cutler/
-        email: cutler.wi@northeastern.edu
+  # - text: "Undergraduate Explorers"
+  #   individuals:
+  #     - name: William Cutler
+  #       photo: william_cutler.jpg
+  #       webpage: https://www.linkedin.com/in/william-r-cutler/
+  #       email: cutler.wi@northeastern.edu
 
-      - name: Daniel Wang
-        photo: 
-        webpage: 
-        email: wang.danie@northeastern.edu
+  #     - name: Daniel Wang
+  #       photo: 
+  #       webpage: 
+  #       email: wang.danie@northeastern.edu
 
 friends:
+  - name: Hanfei Yu 
+    info: PhD Candidate at LSU
   - name: Sidi Lu
-    info: PhD Candidate, Wayne State University
-  - name: Rohan Garg
-    info: Nutanix
-  - name: Janki Bhimani
-    info: Assistant Professor, Florida International University
-  - name: Emily Costa
-    info: Indeed
-  - name: Fritz Prevlion
-    info: ARM
+    info: PhD	Advisee/Mentee at Wayne State University (now AP at William & Mary)
+
