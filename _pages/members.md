@@ -40,15 +40,13 @@ permalink: /members/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="float: left; border-radius: 50%; height: 100px; width: 100px; object-fit: cover; overflow: hidden; image-rendering: -webkit-optimize-contrast;" />
 
 {% endif %}
-
-  {{ member.name}}<br/>
+   <a href="{{mailto:{member.email}}}" style="color: blue;">{{ member.name}}</a><br/>
   <!-- {% if member.webpage == nil %}
   <a href="{{ site.url }}{{ site.baseurl }}/" style="color: blue;">Home Page</a><br/>
   {% else %}
   <a href="{{ member.webpage }}" style="color: blue;">Home Page</a><br/>
   {% endif %} -->
     <a href="{{ member.webpage }}" style="color: blue;">Home Page</a><br/>
-  <i>{{ member.email }}</i><br/>
   <i>{{member.position}}</i>
   </div>
 
