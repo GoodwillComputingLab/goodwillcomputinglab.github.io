@@ -3,54 +3,54 @@
   elements:
 
   - conference: "SC 2024 (a)"
-    paper: "LexiQL: Quantum Natural Language Processing on NISQ-era Machines."
-    authors: "Daniel Silver, Aditya Ranjan, Rakesh Achutha, Tirthak Patel, Devesh Tiwari."
+    paper: "LexiQL: Quantum Natural Language Processing on NISQ-era Machines"
+    authors: "Daniel Silver, Aditya Ranjan, Rakesh Achutha, Tirthak Patel, Devesh Tiwari"
 
   - conference: "SC 2024 (b)"
-    paper: "ECO-LIFE: High-Performance and Carbon-Aware Serverless Workloads Scheduling via Multi-generation Hardware."
-    authors: "Yankai Jiang, Rohan Basu Roy, Baolin Li, Devesh Tiwari."
+    paper: "ECO-LIFE: High-Performance and Carbon-Aware Serverless Workloads Scheduling via Multi-generation Hardware"
+    authors: "Yankai Jiang, Rohan Basu Roy, Baolin Li, Devesh Tiwari"
 
   - conference: "SC 2024 (c)"
-    paper: "Incentive-Based Power Efficiency Mechanisms on the Fugaku Supercomputer."
-    authors: "Ana Luisa Veroneze Solorzano, Kento Sato, Keiji Yamamoto, Jim Brandt, Benjamin Schwaller, Sara Petra Walton, Jennifer Green, Fumiyoshi Shoji, Devesh Tiwari."
+    paper: "Incentive-Based Power Efficiency Mechanisms on the Fugaku Supercomputer"
+    authors: "Ana Luisa Veroneze Solorzano, Kento Sato, Keiji Yamamoto, Jim Brandt, Benjamin Schwaller, Sara Petra Walton, Jennifer Green, Fumiyoshi Shoji, Devesh Tiwari"
   
   - conference: "SC 2024 (d)"
-    paper: "Stellaris: Staleness-aware Distributed Reinforcement Learning with Serverless Computing."
-    authors: "Hanfei Yu, Hao Wang, Jian Li, Seung-Jong Park, Devesh Tiwari."
+    paper: "Stellaris: Staleness-aware Distributed Reinforcement Learning with Serverless Computing"
+    authors: "Hanfei Yu, Hao Wang, Jian Li, Seung-Jong Park, Devesh Tiwari"
 
   - conference: "IPDPS 2024"
-    paper: "Interpretable Analysis of Production GPU Clusters Monitoring Data via Association Rule Mining."
-    authors: "Baolin Li, Siddharth Samsi, Vijay Gadepally, Devesh Tiwari."
+    paper: "Interpretable Analysis of Production GPU Clusters Monitoring Data via Association Rule Mining"
+    authors: "Baolin Li, Siddharth Samsi, Vijay Gadepally, Devesh Tiwari"
     paper-link: https://baolin-li.netlify.app/uploads/IPDPS2024_GPU_Datacenter.pdf
     code-link: https://github.com/boringlee24/ipdps24-datacenter
     slides-link: https://baolin-li.netlify.app/uploads/IPDPS24_Mining_Slides.pdf
 
   - conference: "SIGMETRICS 2024"
-    paper: "StarShip: Mitigating I/O Bottlenecks in Serverless Computing for Scientific Workflows."
+    paper: "StarShip: Mitigating I/O Bottlenecks in Serverless Computing for Scientific Workflows"
     paper-link: "https://dl.acm.org/doi/pdf/10.1145/3639028"
     code-link: "https://zenodo.org/records/11480216"
-    authors: "Rohan Basu Roy, Devesh Tiwari."
+    authors: "Rohan Basu Roy, Devesh Tiwari"
 
   - conference: "ASPLOS 2024 (a)"
-    paper: "CodeCrunch: Improving Serverless Performance via Function Compression and Cost-Aware Warmup Location Optimization."
+    paper: "CodeCrunch: Improving Serverless Performance via Function Compression and Cost-Aware Warmup Location Optimization"
     paper-link: "https://dl.acm.org/doi/pdf/10.1145/3617232.3624866"
     code-link: "https://zenodo.org/records/10055340"
     authors: "Rohan Basu Roy, Tirthak Patel, Rohan Garg, Devesh Tiwari"
 
   - conference: "ASPLOS 2024 (b)"
-    paper: "RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing."
+    paper: "RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing"
     paper-link: "https://dl.acm.org/doi/pdf/10.1145/3617232.3624871"
     code-link: "https://github.com/IntelliSys-Lab/RainbowCake-ASPLOS24/tree/RainbowCake-ASPLOS24"
-    authors: "Hanfei Yu, Rohan Basu Roy, Christian Fontenot, Devesh Tiwari, Jian Li, Hong Zhang, Hao Wang, Seung-Jong Park."
+    authors: "Hanfei Yu, Rohan Basu Roy, Christian Fontenot, Devesh Tiwari, Jian Li, Hong Zhang, Hao Wang, Seung-Jong Park"
 
   - conference: "HotCarbon Workshop"
     paper: "Carbon in Motion: Characterizing Open-Sora on the Sustainability of Generative AI for Video Generation"
-    authors: "Baolin Li, Yankai Jiang, Devesh Tiwari."
+    authors: "Baolin Li, Yankai Jiang, Devesh Tiwari"
 
   - conference: "ArXiv"
-    paper: "Toward Sustainable GenAI using Generation Directives for Carbon-Friendly Large Language Model Inference."
+    paper: "Toward Sustainable GenAI using Generation Directives for Carbon-Friendly Large Language Model Inference"
     paper-link: "https://arxiv.org/pdf/2403.12900"   # code-link: ""
-    authors: "Baolin Li, Yankai Jiang, Vijay Gadepally, Devesh Tiwari."
+    authors: "Baolin Li, Yankai Jiang, Vijay Gadepally, Devesh Tiwari"
 
   - conference: "FGCS"
     paper: "The Globus Compute Dataset: An Open Function-as-a-Service Dataset from the Edge to the Cloud"
@@ -60,13 +60,13 @@
   text: "2023"
   elements:
   - conference: "SC 2023 (a)"
-    paper: "GRAPHINE: Generating Application-Specific Neutral Atom Topologies for Improved Quantum Computing Performance."
-    authors: "Tirthak Patel, Daniel Silver, Devesh Tiwari."
+    paper: "GRAPHINE: Generating Application-Specific Neutral Atom Topologies for Improved Quantum Computing Performance"
+    authors: "Tirthak Patel, Daniel Silver, Devesh Tiwari"
     paper-link: https://dl.acm.org/doi/pdf/10.1145/3581784.3607032
     code-link: https://zenodo.org/records/8307292
 
   - conference: "SC 2023 (b)"
-    paper: "Clover: Toward Sustainable AI with Carbon-Aware Machine Learning Inference Service."
+    paper: "Clover: Toward Sustainable AI with Carbon-Aware Machine Learning Inference Service"
     authors: "Baolin Li, Siddharth Samsi, Vijay Gadepally, Devesh Tiwari"
     paper-link: https://arxiv.org/pdf/2304.09781
     code-link: https://github.com/boringlee24/sc23-clover
@@ -74,96 +74,96 @@
     
 
   - conference: "SC 2023 (c)"
-    paper: "Comprehensive Experimental Evaluation and Analysis of a Universal Photonic Quantum Computer."
-    authors: "Aditya Ranjan, Tirthak Patel, Harshitta Gandhi, Daniel Silver, William Cutler, Devesh Tiwari."
+    paper: "Comprehensive Experimental Evaluation and Analysis of a Universal Photonic Quantum Computer"
+    authors: "Aditya Ranjan, Tirthak Patel, Harshitta Gandhi, Daniel Silver, William Cutler, Devesh Tiwari"
 
   - conference: "SC 2023 (d)"
-    paper: "Sustainable HPC: Modeling, Characterization, and Implications of Carbon Footprint in Modern HPC Systems."
+    paper: "Sustainable HPC: Modeling, Characterization, and Implications of Carbon Footprint in Modern HPC Systems"
     authors: "Baolin Li, Rohan Basu Roy, Daniel Wong, Sid Samsi, Vijay Gadepally, Devesh Tiwari. "
 
  
   - conference: "AAAI 2023"
-    paper: "SLIQ: Resource-Efficient Quantum Similarity Networks for Unlabeled Data on Noisy Quantum Computers."
+    paper: "SLIQ: Resource-Efficient Quantum Similarity Networks for Unlabeled Data on Noisy Quantum Computers"
     authors: "Daniel Silver, Tirthak Patel, Aditya Ranjan, Harshitta Gandhi, William Cutler, Devesh Tiwari"
 
 
   - conference: "HPDC 2023 (a)"
-    paper: "Kairos: Building Cost-Efficient Machine Learning Inference Systems with Heterogeneous Cloud Resources."
-    authors: "Baolin Li, Sid Samsi, Vijay Gadepally, Devesh Tiwari."
+    paper: "Kairos: Building Cost-Efficient Machine Learning Inference Systems with Heterogeneous Cloud Resources"
+    authors: "Baolin Li, Sid Samsi, Vijay Gadepally, Devesh Tiwari"
 
   - conference: "HPDC 2023 (b)"
-    paper: "ProPack: Executing Concurrent Serverless Functions Faster and Cheaper."
-    authors: "Rohan Basu Roy, Tirthak Patel, Richmond Liew, Yadu Nand Babuji, Ryan Chard, Devesh Tiwari."
+    paper: "ProPack: Executing Concurrent Serverless Functions Faster and Cheaper"
+    authors: "Rohan Basu Roy, Tirthak Patel, Richmond Liew, Yadu Nand Babuji, Ryan Chard, Devesh Tiwari"
 
   - conference: "ECCV 2023"
     paper: "MosaiQ: Enabling High-Quality Image Generation on Quantum Computers"
-    authors: "Daniel Silver, Tirthak Patel, William Cutler,Aditya Ranjan, Harshitta Gandhi, Devesh Tiwari."
+    authors: "Daniel Silver, Tirthak Patel, William Cutler,Aditya Ranjan, Harshitta Gandhi, Devesh Tiwari"
 
   - conference: "SoCC 2023"
-    paper: "Sustainable Supercomputing for AI: GPU Power Capping at HPC Scale."
-    authors: "Dan Zhao, Siddharth Samsi, Joseph McDonald, Baolin Li, David Bestor, Michael Jones, Devesh Tiwari, Vijay Gadepally."
+    paper: "Sustainable Supercomputing for AI: GPU Power Capping at HPC Scale"
+    authors: "Dan Zhao, Siddharth Samsi, Joseph McDonald, Baolin Li, David Bestor, Michael Jones, Devesh Tiwari, Vijay Gadepally"
 
   - conference: "MICRO 2023"
-    paper: "SupeRBNN: Randomized Binary Neural Network Using Adiabatic Superconductor Josephson Devices."
-    authors: "Zhengang Li, Geng Yuan, Tomoharu Yamauchi, Masoud Zabihi, Yanyue Xie, Peiyan Dong, Xulong Tang, Nobuyuki Yoshikawa, Devesh Tiwari, Yanzhi Wang, Olivia Chen."
+    paper: "SupeRBNN: Randomized Binary Neural Network Using Adiabatic Superconductor Josephson Devices"
+    authors: "Zhengang Li, Geng Yuan, Tomoharu Yamauchi, Masoud Zabihi, Yanyue Xie, Peiyan Dong, Xulong Tang, Nobuyuki Yoshikawa, Devesh Tiwari, Yanzhi Wang, Olivia Chen"
 
   - conference: "DAC 2023"
-    paper: "Invited: Building Robust Quantum System Software for Technology-Specific Characteristics."
-    authors: "Tirthak Patel, Devesh Tiwari."
+    paper: "Invited: Building Robust Quantum System Software for Technology-Specific Characteristics"
+    authors: "Tirthak Patel, Devesh Tiwari"
 
   - conference: "HPEC 2023"
-    paper: "From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference."
+    paper: "From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference"
     authors: "Siddharth Samsi, Dan Zhao, Joseph McDonald, Baolin Li, Adam Michaleas, Michael Jones, William Bergeron, Jeremy Kepner, Devesh Tiwari, Vijay Gadepally. "
 
   - conference: "ArXiv"
-    paper: "Toward Privacy in Quantum Program Execution On Untrusted Quantum Cloud Computing Machines for Business-sensitive Quantum Needs."
-    authors: "Tirthak Patel, Daniel Silver, Aditya Ranjan, Harshitta Gandhi, William Cutler, Devesh Tiwari."
+    paper: "Toward Privacy in Quantum Program Execution On Untrusted Quantum Cloud Computing Machines for Business-sensitive Quantum Needs"
+    authors: "Tirthak Patel, Daniel Silver, Aditya Ranjan, Harshitta Gandhi, William Cutler, Devesh Tiwari"
 
 - year:  
   text: "2022"
   elements:
   - conference: "SC 2022 (a)"
-    paper: "DayDream: Executing Dynamic Scientific Workflows on Serverless Platforms with Hot Starts."
+    paper: "DayDream: Executing Dynamic Scientific Workflows on Serverless Platforms with Hot Starts"
     link: ""
 
   - conference: "SC 2022 (b)"
-    paper: "CHARTER: Identifying the Most-Critical Gate Operations in Quantum Circuits via Amplified Gate Reversibility."
+    paper: "CHARTER: Identifying the Most-Critical Gate Operations in Quantum Circuits via Amplified Gate Reversibility"
     link: ""
 
   - conference: "AAAI 2022"
-    paper: "QUILT: Effective Multi-Class Classification on Quantum Computers Using an Ensemble of Diverse Quantum Classifiers."
+    paper: "QUILT: Effective Multi-Class Classification on Quantum Computers Using an Ensemble of Diverse Quantum Classifiers"
     link: ""
 
   - conference: "ASPLOS 2022 (a)"
-    paper: "IceBreaker: warming serverless functions better with heterogeneity."
+    paper: "IceBreaker: warming serverless functions better with heterogeneity"
     link: ""
 
   - conference: "ASPLOS 2022 (b)"
-    paper: "QUEST: systematically approximating Quantum circuits for higher output fidelity."
+    paper: "QUEST: systematically approximating Quantum circuits for higher output fidelity"
     link: ""
 
   - conference: "ISCA 2022"
-    paper: "Geyser: a compilation framework for quantum computing with neutral atoms."
+    paper: "Geyser: a compilation framework for quantum computing with neutral atoms"
     link: ""
 
   - conference: "HPCA 2022"
-    paper: "AI-Enabling Workloads on Large-Scale GPU-Accelerated System: Characterization, Opportunities, and Implications."
+    paper: "AI-Enabling Workloads on Large-Scale GPU-Accelerated System: Characterization, Opportunities, and Implications"
     link: ""
 
   - conference: "PPoPP 2022"
-    paper: "Mashup: making serverless computing useful for HPC workflows via hybrid execution."
+    paper: "Mashup: making serverless computing useful for HPC workflows via hybrid execution"
     link: ""
 
   - conference: "SOCC 2022"
-    paper: "MISO: Exploiting Multi-Instance GPU Capability on Multi-Tenant GPU Clusters."
+    paper: "MISO: Exploiting Multi-Instance GPU Capability on Multi-Tenant GPU Clusters"
     link: ""
 
   - conference: "NAACL 2022"
-    paper: "Great Power, Great Responsibility: Recommendations for Reducing Energy for Training Language Models."
+    paper: "Great Power, Great Responsibility: Recommendations for Reducing Energy for Training Language Models"
     link: ""
 
   - conference: "DATE 2022 (a)"
-    paper: "OPTIC: A Practical Quantum Binary Classifier for Near-Term Quantum Computers."
+    paper: "OPTIC: A Practical Quantum Binary Classifier for Near-Term Quantum Computers"
     link: ""
 
   - conference: "DATE 2022 (b)"
@@ -176,39 +176,39 @@
   text: "2021"
   elements:
   - conference: "SC 2021 (a)"
-    paper: "Systematically Inferring I/O Performance Variability by Examining Repetitive Job Behavior."
+    paper: "Systematically Inferring I/O Performance Variability by Examining Repetitive Job Behavior"
     link: ""
 
   - conference: "SC 2021 (b)"
-    paper: "Ribbon: Cost-Effective and QoS-Aware Deep Learning Model Inference using a Diverse Pool of Cloud Computing Instances."
+    paper: "Ribbon: Cost-Effective and QoS-Aware Deep Learning Model Inference using a Diverse Pool of Cloud Computing Instances"
     link: ""
 
   - conference: "ISCA 2021"
-    paper: "SATORI: Efficient and Fair Resource Partitioning by Sacrificing Short-Term Benefits for Long-Term Gains."
+    paper: "SATORI: Efficient and Fair Resource Partitioning by Sacrificing Short-Term Benefits for Long-Term Gains"
     link: ""
 
   - conference: "HPCA 2021"
-    paper: "Operating Liquid-Cooled Large-Scale Systems: Long-Term Monitoring, Reliability Analysis, and Efficiency Measures."
+    paper: "Operating Liquid-Cooled Large-Scale Systems: Long-Term Monitoring, Reliability Analysis, and Efficiency Measures"
     link: ""
 
   - conference: "DSN 2021"
-    paper: "Examining Failures and Repairs on Supercomputers with Multi-GPU Compute Nodes."
+    paper: "Examining Failures and Repairs on Supercomputers with Multi-GPU Compute Nodes"
     link: ""
 
   - conference: "PLDI 2021"
-    paper: "BLISS: Auto-tuning Complex Applications Using A Pool of Diverse Lightweight Learning Models."
+    paper: "BLISS: Auto-tuning Complex Applications Using A Pool of Diverse Lightweight Learning Models"
     link: ""
 
   - conference: "IISWC 2021"
-    paper: "Serverless Storage Scalability Challenges: Characterization, Implications, and Mitigation."
+    paper: "Serverless Storage Scalability Challenges: Characterization, Implications, and Mitigation"
     link: ""
 
   - conference: "HPEC 2021"
-    paper: "Serving Machine Learning Inference Using Heterogeneous Hardware."
+    paper: "Serving Machine Learning Inference Using Heterogeneous Hardware"
     link: ""
 
   - conference: "ASPLOS 2021"
-    paper: "QRAFT: Reverse Your Quantum Circuit and Know the Correct Program Output."
+    paper: "QRAFT: Reverse Your Quantum Circuit and Know the Correct Program Output"
     link: ""
 
 
@@ -217,15 +217,15 @@
   text: "2020"
   elements:
   - conference: "USENIX ATC 2020"
-    paper: "UREQA: Leveraging Operation-Aware Error Rates for Effective Quantum Circuit Mapping on NISQ-Era Quantum Computers."
+    paper: "UREQA: Leveraging Operation-Aware Error Rates for Effective Quantum Circuit Mapping on NISQ-Era Quantum Computers"
     link: ""
 
   - conference: "USENIX FAST 2020 (a)"
-    paper: "GIFT: A Coupon Based Throttle-and-Reward Mechanism for Fair and Efficient I/O Bandwidth Management on Parallel Storage Systems."
+    paper: "GIFT: A Coupon Based Throttle-and-Reward Mechanism for Fair and Efficient I/O Bandwidth Management on Parallel Storage Systems"
     link: ""
 
   - conference: "USENIX FAST 2020 (b)"
-    paper: "Uncovering Access, Reuse, and Sharing Characteristics of I/O-Intensive Files on Large-Scale Production HPC Systems."
+    paper: "Uncovering Access, Reuse, and Sharing Characteristics of I/O-Intensive Files on Large-Scale Production HPC Systems"
     link: ""
 
   - conference: "USENIX FAST 2020 (c)"
@@ -234,23 +234,23 @@
 
 
   - conference: "SC 2020 (a)"
-    paper: "VERITAS: Accurately Estimating the Correct Output on Noisy Intermediate-Scale Quantum Computers."
+    paper: "VERITAS: Accurately Estimating the Correct Output on Noisy Intermediate-Scale Quantum Computers"
     link: ""
     
   - conference: "SC 2020 (b)"
-    paper: "Experimental Evaluation of NISQ Quantum Computers: Error Measurement, Characterization, and Implications."
+    paper: "Experimental Evaluation of NISQ Quantum Computers: Error Measurement, Characterization, and Implications"
     link: ""
     
   - conference: "SC 2020 (c)"
-    paper: "Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification and Implications."
+    paper: "Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification and Implications"
     link: ""
     
   - conference: "ICCAD 2020"
-    paper: "DisQ: A Novel Quantum Output State Classification Method on IBM Quantum Computers using OpenPulse."
+    paper: "DisQ: A Novel Quantum Output State Classification Method on IBM Quantum Computers using OpenPulse"
     link: ""
     
   - conference: "HPCA 2020"
-    paper: "CLITE: Efficient and QoS-Aware Co-Location of Multiple Latency-Critical Jobs for Warehouse Scale Computers."
+    paper: "CLITE: Efficient and QoS-Aware Co-Location of Multiple Latency-Critical Jobs for Warehouse Scale Computers"
     link: ""
     
   - conference: "IPDPS 2020"
@@ -258,15 +258,15 @@
     link: ""
     
   - conference: "JSNAM 2020"
-    paper: "Resilience and Coevolution of Preferential Interdependent Networks."
+    paper: "Resilience and Coevolution of Preferential Interdependent Networks"
     link: ""
     
   - conference: "JMR 2020"
-    paper: "Comparing Performances of Five Distinct Automatic Classifiers for Fin Whale Vocalizations in Beamformed Spectrograms of Coherent Hydrophone Array."
+    paper: "Comparing Performances of Five Distinct Automatic Classifiers for Fin Whale Vocalizations in Beamformed Spectrograms of Coherent Hydrophone Array"
     link: ""
     
   - conference: "TDSC 2020"
-    paper: "Characterizing and Exploiting Soft Error Vulnerability Phase Behavior in GPU Applications."
+    paper: "Characterizing and Exploiting Soft Error Vulnerability Phase Behavior in GPU Applications"
     link: ""
 
 
@@ -274,15 +274,15 @@
   text: "2019"
   elements:
   - conference: "TPDS 2019"
-    paper: "An Analysis Workflow-Aware Storage System for Multi-Core Active Flash Arrays."
+    paper: "An Analysis Workflow-Aware Storage System for Multi-Core Active Flash Arrays"
     link: ""
 
   - conference: "SC 2019"
-    paper: "Revisiting I/O Behavior in Large-Scale Storage Systems: The Expected and the Unexpected."
+    paper: "Revisiting I/O Behavior in Large-Scale Storage Systems: The Expected and the Unexpected"
     link: ""
 
   - conference: "HPDC 2019"
-    paper: "PERQ: Fair and Efficient Power Management of Power-Constrained Large-Scale Computing Systems."
+    paper: "PERQ: Fair and Efficient Power Management of Power-Constrained Large-Scale Computing Systems"
     link: ""
 
   - conference: "DAC 2019"
@@ -290,19 +290,19 @@
     link: ""
 
   - conference: "CLOUD 2019"
-    paper: "Exploring Potential for Non-Disruptive Vertical Auto Scaling and Resource Estimation in Kubernetes."
+    paper: "Exploring Potential for Non-Disruptive Vertical Auto Scaling and Resource Estimation in Kubernetes"
     link: ""
 
   - conference: "ICAC 2019"
-    paper: "Characterizing Disk Health Degradation and Proactively Protecting Against Disk Failures for Reliable Storage Systems."
+    paper: "Characterizing Disk Health Degradation and Proactively Protecting Against Disk Failures for Reliable Storage Systems"
     link: ""
 
   - conference: "CCGrid 2019"
-    paper: "Towards Enabling Dynamic Resource Estimation and Correction for Improving Utilization in an Apache Mesos Cloud Environment."
+    paper: "Towards Enabling Dynamic Resource Estimation and Correction for Improving Utilization in an Apache Mesos Cloud Environment"
     link: ""
 
   - conference: "DATE 2019"
-    paper: "PCFI: Program Counter Guided Fault Injection for Accelerating GPU Reliability Assessment."
+    paper: "PCFI: Program Counter Guided Fault Injection for Accelerating GPU Reliability Assessment"
     link: ""
 
 
@@ -310,27 +310,27 @@
   text: "2018"
   elements:
   - conference: "BIGDATA 2018"
-    paper: "Reliability Characterization of Solid State Drives in a Scalable Production Datacenter."
+    paper: "Reliability Characterization of Solid State Drives in a Scalable Production Datacenter"
     link: ""
 
   - conference: "ASONAM 2018"
-    paper: "Resilience and the Coevolution of Interdependent Multiplex Networks."
+    paper: "Resilience and the Coevolution of Interdependent Multiplex Networks"
     link: ""
 
   - conference: "ICCCN 2018"
-    paper: "Exploring the Optimal Platform Configuration for Power-Constrained HPC Workflows."
+    paper: "Exploring the Optimal Platform Configuration for Power-Constrained HPC Workflows"
     link: ""
 
   - conference: "DSN 2018 (a)"
-    paper: "Shiraz: Exploiting System Reliability and Application Resilience Characteristics to Improve Large Scale System Throughput."
+    paper: "Shiraz: Exploiting System Reliability and Application Resilience Characteristics to Improve Large Scale System Throughput"
     link: ""
 
   - conference: "DSN 2018 (b)"
-    paper: "Machine Learning Models for GPU Error Prediction in a Large Scale HPC System."
+    paper: "Machine Learning Models for GPU Error Prediction in a Large Scale HPC System"
     link: ""
 
   - conference: "DSN 2018 (c)"
-    paper: "Understanding and Analyzing Interconnect Errors and Network Congestion on a Large Scale HPC System."
+    paper: "Understanding and Analyzing Interconnect Errors and Network Congestion on a Large Scale HPC System"
     link: ""
 
 
@@ -338,35 +338,35 @@
   text: "2017"
   elements:
   - conference: "SC 2017 (a)"
-    paper: "Failures in Large Scale Systems: Long-Term Measurement, Analysis, and Implications."
+    paper: "Failures in Large Scale Systems: Long-Term Measurement, Analysis, and Implications"
     link: ""
 
   - conference: "SC 2017 (b)"
-    paper: "GUIDE: A Scalable Information Directory Service to Collect, Federate, and Analyze Logs for Operational Insights into a Leadership HPC Facility."
+    paper: "GUIDE: A Scalable Information Directory Service to Collect, Federate, and Analyze Logs for Operational Insights into a Leadership HPC Facility"
     link: ""
 
   - conference: "MASCOTS 2017 (a)"
-    paper: "Toward Managing HPC Burst Buffers Effectively: Draining Strategy to Regulate Bursty I/O Behavior."
+    paper: "Toward Managing HPC Burst Buffers Effectively: Draining Strategy to Regulate Bursty I/O Behavior"
     link: ""
 
   - conference: "MASCOTS 2017 (b)"
-    paper: "Characterizing Temperature, Power, and Soft-error Behaviors in Data Center Systems: Insights, Challenges, and Opportunities."
+    paper: "Characterizing Temperature, Power, and Soft-error Behaviors in Data Center Systems: Insights, Challenges, and Opportunities"
     link: ""
 
   - conference: "CLUSTER 2017"
-    paper: "Effective Running of End-to-end HPC Workflows on Emerging Heterogeneous Architectures."
+    paper: "Effective Running of End-to-end HPC Workflows on Emerging Heterogeneous Architectures"
     link: ""
 
   - conference: "MWSCAS 2017"
-    paper: "Combining Architectural Fault-injection and Neutron Beam Testing Approaches Toward Better Understanding of GPU Soft-error Resilience."
+    paper: "Combining Architectural Fault-injection and Neutron Beam Testing Approaches Toward Better Understanding of GPU Soft-error Resilience"
     link: ""
 
   - conference: "TECS 2017"
-    paper: "Compiler-directed Soft Error Detection and Recovery to Avoid DUE and SDC via Tail-DMR."
+    paper: "Compiler-directed Soft Error Detection and Recovery to Avoid DUE and SDC via Tail-DMR"
     link: ""
 
   - conference: "TOMPECS 2017"
-    paper: "Obtaining and Managing Answer Quality for Online Data-intensive Services."
+    paper: "Obtaining and Managing Answer Quality for Online Data-intensive Services"
     link: ""
 
 
@@ -374,7 +374,7 @@
   text: "2016"
   elements:
   - conference: "SC 2016 (a)"
-    paper: "Granularity and the Cost of Error Recovery in Resilient AMR Scientific Applications."
+    paper: "Granularity and the Cost of Error Recovery in Resilient AMR Scientific Applications"
     link: ""
 
   - conference: "SC 2016 (b)"
@@ -382,23 +382,23 @@
     link: ""
 
   - conference: "MICRO 2016"
-    paper: "Low-Cost Soft Error Resilience with Unified Data Verification and Fine-Grained Recovery for Acoustic Sensor Based Detection."
+    paper: "Low-Cost Soft Error Resilience with Unified Data Verification and Fine-Grained Recovery for Acoustic Sensor Based Detection"
     link: ""
 
   - conference: "ICAC 2016"
-    paper: "Adaptive Power Profiling for Many-Core HPC Architectures."
+    paper: "Adaptive Power Profiling for Many-Core HPC Architectures"
     link: ""
 
   - conference: "DSN 2016"
-    paper: "Power-aware Checkpointing: Toward the Optimal Checkpointing Interval under Power Capping."
+    paper: "Power-aware Checkpointing: Toward the Optimal Checkpointing Interval under Power Capping"
     link: ""
 
   - conference: "IPDPS 2016"
-    paper: "Reducing Waste in Large Scale Systems Through Introspective Analysis."
+    paper: "Reducing Waste in Large Scale Systems Through Introspective Analysis"
     link: ""
 
   - conference: "HPCA 2016"
-    paper: "A Large-Scale Study of Soft-Errors on GPUs in the Field."
+    paper: "A Large-Scale Study of Soft-Errors on GPUs in the Field"
     link: ""
 
 
@@ -407,43 +407,43 @@
   text: "2015"
   elements:
   - conference: "SC 2015 (a)"
-    paper: "Reliability Lessons Learned From GPU Experience With The Titan Supercomputer at Oak Ridge Leadership Computing Facility."
+    paper: "Reliability Lessons Learned From GPU Experience With The Titan Supercomputer at Oak Ridge Leadership Computing Facility"
     link: ""
 
   - conference: "SC 2015 (b)"
-    paper: "A Practical Approach to Reconciling Availability, Performance, and Capacity in Provisioning Extreme-scale Storage Systems."
+    paper: "A Practical Approach to Reconciling Availability, Performance, and Capacity in Provisioning Extreme-scale Storage Systems"
     link: ""
 
   - conference: "SC 2015 (c)"
-    paper: "AnalyzeThis: An Analysis Workflow-Aware Storage System."
+    paper: "AnalyzeThis: An Analysis Workflow-Aware Storage System"
     link: ""
 
   - conference: "SC 2015 (d)"
-    paper: "Node Variability in Large-Scale Power Measurements: Perspectives from the Green500, Top500 and EEHPCWG."
+    paper: "Node Variability in Large-Scale Power Measurements: Perspectives from the Green500, Top500 and EEHPCWG"
     link: ""
 
   - conference: "ICAC 2015"
-    paper: "Ubora: Measuring and Managing Answer Quality for Online Data-Intensive Services."
+    paper: "Ubora: Measuring and Managing Answer Quality for Online Data-Intensive Services"
     link: ""
 
   - conference: "DSN 2015"
-    paper: "Understanding and Exploiting Spatial Properties of System Failures on Extreme-Scale HPC Systems."
+    paper: "Understanding and Exploiting Spatial Properties of System Failures on Extreme-Scale HPC Systems"
     link: ""
 
   - conference: "LCTES 2015"
-    paper: "Clover: Compiler Directed Lightweight Soft Error Resilience."
+    paper: "Clover: Compiler Directed Lightweight Soft Error Resilience"
     link: ""
 
   - conference: "HPCA 2015"
-    paper: "Understanding GPU Errors on Large-scale HPC Systems and the Implications for System Design and Operation."
+    paper: "Understanding GPU Errors on Large-scale HPC Systems and the Implications for System Design and Operation"
     link: ""
 
   - conference: "CUG 2015"
-    paper: "Experience with GPUs on the Titan Supercomputer from a Reliability, Performance and Power Perspective."
+    paper: "Experience with GPUs on the Titan Supercomputer from a Reliability, Performance and Power Perspective"
     link: ""
 
   - conference: "JPDC 2015"
-    paper: "Application Configuration Predication for Energy-Efficient Execution on Multicore Systems."
+    paper: "Application Configuration Predication for Energy-Efficient Execution on Multicore Systems"
     link: ""
 
 
@@ -451,11 +451,11 @@
   text: "2014"
   elements:
   - conference: "SC 2014"
-    paper: "Best Practices and Lessons Learned from Deploying and Operating Large-Scale Data-Centric Parallel File Systems."
+    paper: "Best Practices and Lessons Learned from Deploying and Operating Large-Scale Data-Centric Parallel File Systems"
     link: ""
 
   - conference: "DSN 2014"
-    paper: "Lazy Checkpointing: Exploiting Temporal Locality in Failures to Mitigate Checkpointing Overheads on Extreme-Scale Systems."
+    paper: "Lazy Checkpointing: Exploiting Temporal Locality in Failures to Mitigate Checkpointing Overheads on Extreme-Scale Systems"
     link: ""
 
   - conference: "IPDPS 2014"
