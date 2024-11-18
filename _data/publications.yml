@@ -1,6 +1,25 @@
 - year:
+  text: "2025"
+  elements:
+   - conference: "ASPLOS 2025"
+    paper: "ImitationGame: Playing Tournaments for Tuning Applications in Noisy Cloud Environments"
+    authors: "Rohan Basu Roy, Vijay Gadepally, Devesh Tiwari"
+  
+- year:
   text: "2024"
   elements:
+  - conference: "SoCC 2024"
+    paper: "The Hidden Carbon Footprint of Serverless Computing"
+    authors: "Rohan Basu Roy, Raghavendra Kanakagiri, Yankai Jiang, Devesh Tiwari"
+    
+  - conference: "EMNLP 2024"
+    paper: "Sprout: Green Generative AI with Carbon-Efficient LLM Inference"
+    paper-link: "https://aclanthology.org/2024.emnlp-main.1215.pdf"   # code-link: ""
+    authors: "Baolin Li, Yankai Jiang, Vijay Gadepally, Devesh Tiwari"
+
+  - conference: "HPEC 2024"
+    paper: "LLM Inference Serving: Survey of Recent Advances and Opportunities"
+    authors: "Baolin Li, Yankai Jiang, Vijay Gadepally, Devesh Tiwari"
 
   - conference: "SC 2024 (a)"
     paper: "LexiQL: Quantum Natural Language Processing on NISQ-era Machines"
@@ -46,11 +65,6 @@
   - conference: "HotCarbon Workshop"
     paper: "Carbon in Motion: Characterizing Open-Sora on the Sustainability of Generative AI for Video Generation"
     authors: "Baolin Li, Yankai Jiang, Devesh Tiwari"
-
-  - conference: "ArXiv"
-    paper: "Toward Sustainable GenAI using Generation Directives for Carbon-Friendly Large Language Model Inference"
-    paper-link: "https://arxiv.org/pdf/2403.12900"   # code-link: ""
-    authors: "Baolin Li, Yankai Jiang, Vijay Gadepally, Devesh Tiwari"
 
   - conference: "FGCS"
     paper: "The Globus Compute Dataset: An Open Function-as-a-Service Dataset from the Edge to the Cloud"
