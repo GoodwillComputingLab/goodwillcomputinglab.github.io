@@ -1,7 +1,7 @@
 - year:
   text: "2025"
   elements:
-   - conference: "ASPLOS 2025"
+  - conference: "ASPLOS 2025"
     paper: "ImitationGame: Playing Tournaments for Tuning Applications in Noisy Cloud Environments"
     authors: "Rohan Basu Roy, Vijay Gadepally, Devesh Tiwari"
   
