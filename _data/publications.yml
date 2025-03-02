@@ -2,8 +2,12 @@
   text: "2025"
   elements:
   - conference: "ASPLOS 2025"
-    paper: "ImitationGame: Playing Tournaments for Tuning Applications in Noisy Cloud Environments"
+    paper: "DarwinGame: Playing Tournaments for Tuning Applications in Noisy Cloud Environments"
     authors: "Rohan Basu Roy, Vijay Gadepally, Devesh Tiwari"
+    
+  - conference: "PPoPP 2025"
+    paper: "WaterWise: Co-optimizing Carbon- and Water-Footprint Toward Environmentally Sustainable Cloud Computing"
+    authors: "Yankai Jiang, Rohan Basu Roy, Raghavendra Kanakagiri, Devesh Tiwari"
   
 - year:
   text: "2024"
@@ -20,6 +24,10 @@
   - conference: "HPEC 2024"
     paper: "LLM Inference Serving: Survey of Recent Advances and Opportunities"
     authors: "Baolin Li, Yankai Jiang, Vijay Gadepally, Devesh Tiwari"
+
+  - conference: "VLDB 2024"
+    paper: "Nitro: Boosting Distributed Reinforcement Learning with Serverless Computing"
+    authors: "Hanfei Yu, Jacob Carter, Hao Wang, Devesh Tiwari, Jian Li, Seung-Jong Park"
 
   - conference: "SC 2024 (a)"
     paper: "LexiQL: Quantum Natural Language Processing on NISQ-era Machines"
