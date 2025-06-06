@@ -1,6 +1,18 @@
 - year:
   text: "2025"
   elements:
+  - conference: "HPDC 2025"
+    paper: "Privacy-preserving of HPC Traces for Data Sharing and Analysis"
+    authors: "Ana Luisa Veroneze Solórzano, Rohan Basu Roy, Devesh Tiwari, Benjamin Schwaller, Sara Petra Walton, Jim M. Brandt"
+    
+  - conference: "SIGMETRICS 2025"
+    paper: "ForgetMeNot: Understanding and Modeling the Impact of Forever Chemicals Toward Sustainable Large-Scale Computing"
+    authors: "Rohan Basu Roy, Raghavendra Kanakagiri, Yankai Jiang, Devesh Tiwari"
+    
+  - conference: "ICS 2025"
+    paper: " OpaQue: Program Output Obfuscation for Quantum Software Circuits in Quantum Clouds"
+    authors: "Tirthak Patel, Aditya Ranjan, Daniel Silver, Harshitta Gandhi, William Cutler, Devesh Tiwari"
+    
   - conference: "ASPLOS 2025"
     paper: "DarwinGame: Playing Tournaments for Tuning Applications in Noisy Cloud Environments"
     authors: "Rohan Basu Roy, Vijay Gadepally, Devesh Tiwari"
