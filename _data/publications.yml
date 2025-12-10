@@ -1,22 +1,34 @@
 - year:
   text: "2025"
   elements:
+  
+  - conference: "SIGMETRICS 2026"
+    paper: "ObliQ: Solving Quadratic Unconstrained Binary Optimization Problems on Real Photonic Quantum Machines"
+    authors: "Aditya Ranjan, Daniel Silver, Tirthak Patel, Bhargav Chickmagalurnanjun, Devesh Tiwari"
+    
+- year:
+  text: "2025"
+  elements:
 
   - conference: "SC 2025"
     paper: "GreenMix: Leveraging Asymmetric Multi-Core Processors for Saving Energy and Keep-Alive Cost of Serverless Workloads"
     authors: "Rohan Basu Roy, Tirthak Patel, Baolin Li, Sid Samsi, Vijay Gadepally, Devesh Tiwari"
     
   - conference: "SC 2025"
-    paper: "Water Footprint Modeling, Characterization, and Analysis Toward Water-aware HPC System Design and Operations"
+    paper: "ThirstyFLOPS: Water Footprint Modeling and Analysis Toward Sustainable HPC Systems"
     authors: "Yankai Jiang, Raghavendra Kanakagiri, Rohan Basu Roy, Devesh Tiwari"
+
+  - conference: "SoCC 2025"
+    paper: "Multi-Agent Reinforcement Learning with Serverless Computing"
+    authors: "Rui Wei, Hanfei Yu, Xikang Song, Jian Li, Devesh Tiwari, Ying Mao, Hao Wang"
     
   - conference: "CLOUD 2025"
     paper: "HotSwap: Enabling Live Dependency Sharing in Serverless Computing"
     authors: "Rui Li, Devesh Tiwari, Gene Cooperman"
   
   - conference: "HPDC 2025"
-    paper: "Privacy-preserving of HPC Traces for Data Sharing and Analysis"
-    authors: "Ana Luisa Veroneze Solórzano, Rohan Basu Roy, Devesh Tiwari, Benjamin Schwaller, Sara Petra Walton, Jim M. Brandt"
+    paper: "Bringing Differential Privacy to HPC: Privacy-Preserving Transformations of HPC Traces."
+    authors: "Ana Luisa Veroneze Solórzano, Rohan Basu Roy, Benjamin Schwaller, Sara Petra Walton, Jim M. Brandt, Devesh Tiwari"
     
   - conference: "SIGMETRICS 2025"
     paper: "ForgetMeNot: Understanding and Modeling the Impact of Forever Chemicals Toward Sustainable Large-Scale Computing"
