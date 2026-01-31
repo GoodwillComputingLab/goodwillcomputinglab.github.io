@@ -7,10 +7,6 @@ pi:
 student_categories:
   - text: "PhD Thinkers"
     individuals:
-      - name: Rohan Basu Roy 
-        photo: rohan_basuroy.jpg
-        webpage: https://rohanbasuroy.github.io/
-        email: basuroy.r@northeastern.edu
 
       - name: Ana Veroneze Solórzano 
         photo: ana_solarzano.jpg
@@ -55,6 +51,12 @@ student_categories:
         webpage: https://baolin-li.netlify.app/
         email: li.baol@northeastern.edu 
         position: ML Engineer @ Netflix
+
+      - name: Rohan Basu Roy 
+        photo: rohan_basuroy.jpg
+        webpage: https://rohanbasuroy.github.io/
+        email: rohanbasuroy@sci.utah.edu
+        position: AP @ University of Utah
 
   # - text: "Undergraduate Explorers"
   #   individuals:
