@@ -1,7 +1,14 @@
 - year:
   text: "2026"
   elements:
-  
+  - conference: "HPCA 2026"
+    paper: "LowCarb: Carbon-Aware Scheduling of Serverless Functions"
+    authors: "Rohan Basu Roy, Devesh Tiwari"
+
+  - conference: "IPDPS 2026"
+    paper: "WaterSplit: Coordinated On-Site and Off-Site Water Allocation For Sustainable HPC Cooling"
+    authors: "Yankai Jiang, Raghavendra Kanakagiri, Rohan Basu Roy, Devesh Tiwari"
+    
   - conference: "SIGMETRICS 2026"
     paper: "ObliQ: Solving Quadratic Unconstrained Binary Optimization Problems on Real Photonic Quantum Machines"
     authors: "Aditya Ranjan, Daniel Silver, Tirthak Patel, Bhargav Chickmagalurnanjun, Devesh Tiwari"
@@ -107,6 +114,10 @@
     code-link: "https://github.com/IntelliSys-Lab/RainbowCake-ASPLOS24/tree/RainbowCake-ASPLOS24"
     authors: "Hanfei Yu, Rohan Basu Roy, Christian Fontenot, Devesh Tiwari, Jian Li, Hong Zhang, Hao Wang, Seung-Jong Park"
 
+ - conference: "SC24 Workshop"
+    paper: "PULSE: Using Mixed-Quality Models for Reducing Serverless Keep-Alive Cost"
+    authors: "Kausalya Sankaranarayanan, Rohan Basu Roy, Devesh Tiwari"
+    
   - conference: "HotCarbon Workshop"
     paper: "Carbon in Motion: Characterizing Open-Sora on the Sustainability of Generative AI for Video Generation"
     authors: "Baolin Li, Yankai Jiang, Devesh Tiwari"
