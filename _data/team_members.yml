@@ -10,23 +10,28 @@ student_categories:
 
       - name: Ana Veroneze Solórzano 
         photo: ana_solarzano.jpg
-        webpage: http://linkedin.com/in/anavs/
+        webpage: http://anaveroneze.github.io/
         email: solorzano.an@northeastern.edu
 
-      - name: Dan Silver
-        photo: 
-        webpage: 
-        email: silver.da@northeastern.edu
+      # - name: Dan Silver
+      #   photo: 
+      #   webpage: 
+      #   email: silver.da@northeastern.edu
 
       - name: Aditya Ranjan
         photo: 
-        webpage:
+        webpage: https://www.linkedin.com/in/aditya-ranjan-99b53b152/
         email: ranjan.ad@northeastern.edu
 
       - name: Kausalya Sankaranarayanan
         photo: kausalya_sankaranarayanan.jpg
-        webpage:
+        webpage: https://kausalyasankar.github.io/
         email: sankaranarayanan.k@northeastern.edu
+      
+      - name: Li Wang
+        photo: li_wang.jpg
+        webpage: https://www.linkedin.com/in/charlotte-wang-8398581a5/
+        email: wang.li4@northeastern.edu
 
       - name: Rui Li
         photo: rui_li.jpg
@@ -38,13 +43,18 @@ student_categories:
         webpage: https://lukejyk.github.io
         email: jiang.yank@northeastern.edu
 
+      - name: Pranathi Wuppuluru
+        photo: pranathi.jpg
+        webpage: https://www.linkedin.com/in/wpranathi/
+        email: wuppuluru.p@northeastern.edu
+
   - text: "Goodwill PhD Alumni "
     individuals:
       - name: Tirthak Patel
         photo: tirthak_patel.jpg
         webpage: https://www.tirthakpatel.com/
         email: tirthak.patel@rice.edu
-        position: AP @ Rice University
+        position: Assistant Professor @ Rice University
 
       - name: Baolin Li
         photo: baolin_li.jpg
@@ -53,10 +63,10 @@ student_categories:
         position: ML Engineer @ Netflix
 
       - name: Rohan Basu Roy 
-        photo: rohan_basuroy.jpg
+        photo: rohan.jpg
         webpage: https://rohanbasuroy.github.io/
         email: rohanbasuroy@sci.utah.edu
-        position: AP @ University of Utah
+        position: Assistant Professor  @ University of Utah
 
   # - text: "Undergraduate Explorers"
   #   individuals:
@@ -75,4 +85,5 @@ friends:
     info: PhD Candidate at LSU
   - name: Sidi Lu
     info: PhD	Advisee/Mentee at Wayne State University (now AP at William & Mary)
+  - name: Dan Silver
 
