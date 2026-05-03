@@ -7,7 +7,7 @@
     authors: "Rohan Basu Roy, Devesh Tiwari"
 
   - conference: "IPDPS 2026"
-    paper: "WaterSplit: Coordinated On-Site and Off-Site Water Allocation For Sustainable HPC Cooling"
+    paper: "WaterSplit: Coordinated On-Site and Off-Site Water Allocation For Sustainable Datacenter Cooling"
     authors: "Yankai Jiang, Raghavendra Kanakagiri, Rohan Basu Roy, Devesh Tiwari"
     
   - conference: "SIGMETRICS 2026"
@@ -195,50 +195,62 @@
   elements:
   - conference: "SC 2022 (a)"
     paper: "DayDream: Executing Dynamic Scientific Workflows on Serverless Platforms with Hot Starts"
+    authors: "Rohan Basu Roy, Tirthak Patel, Devesh Tiwari"
     link: ""
 
   - conference: "SC 2022 (b)"
     paper: "CHARTER: Identifying the Most-Critical Gate Operations in Quantum Circuits via Amplified Gate Reversibility"
+    authors: "Tirthak Patel, Daniel Silver, Devesh Tiwari"
     link: ""
 
   - conference: "AAAI 2022"
     paper: "QUILT: Effective Multi-Class Classification on Quantum Computers Using an Ensemble of Diverse Quantum Classifiers"
+    authors: "Daniel Silver, Tirthak Patel, Devesh Tiwari"
     link: ""
 
   - conference: "ASPLOS 2022 (a)"
     paper: "IceBreaker: warming serverless functions better with heterogeneity"
+    authors: "Rohan Basu Roy, Tirthak Patel, Devesh Tiwari"
     link: ""
 
   - conference: "ASPLOS 2022 (b)"
     paper: "QUEST: systematically approximating Quantum circuits for higher output fidelity"
+    authors: "Tirthak Patel, Ed Younis, Costin Iancu, Wibe de Jong, Devesh Tiwari"
     link: ""
 
   - conference: "ISCA 2022"
     paper: "Geyser: a compilation framework for quantum computing with neutral atoms"
+    authors: "Tirthak Patel, Daniel Silver, Devesh Tiwari"
     link: ""
 
   - conference: "HPCA 2022"
     paper: "AI-Enabling Workloads on Large-Scale GPU-Accelerated System: Characterization, Opportunities, and Implications"
+    authors: "Baolin Li, Rohin Arora, Siddharth Samsi, Tirthak Patel, William Arcand, David Bestor, Chansup Byun, Rohan Basu Roy, Bill Bergeron, John Holodnak, Michael Houle, Matthew Hubbell, Michael Jones, Jeremy Kepner, Anna Klein, Peter Michaleas, Joseph McDonald, Lauren Milechin, Julie Mullen, Andrew Prout, Benjamin Price, Albert Reuther, Antonio Rosa, Matthew Weiss, Charles Yee, Daniel Edelman, Allan Vanterpool, Anson Cheng, Vijay Gadepally, Devesh Tiwari"
     link: ""
 
   - conference: "PPoPP 2022"
     paper: "Mashup: making serverless computing useful for HPC workflows via hybrid execution"
+    authors: "Rohan Basu Roy, Tirthak Patel, Vijay Gadepally, Devesh Tiwari"
     link: ""
 
   - conference: "SOCC 2022"
     paper: "MISO: Exploiting Multi-Instance GPU Capability on Multi-Tenant GPU Clusters"
+    authors: "Baolin Li, Tirthak Patel, Siddharth Samsi, Vijay Gadepally, Devesh Tiwari"
     link: ""
 
   - conference: "NAACL 2022"
     paper: "Great Power, Great Responsibility: Recommendations for Reducing Energy for Training Language Models"
+    authors: "Joseph McDonald, Baolin Li, Nathan C. Frey, Devesh Tiwari, Vijay Gadepally, Siddharth Samsi"
     link: ""
 
   - conference: "DATE 2022 (a)"
     paper: "OPTIC: A Practical Quantum Binary Classifier for Near-Term Quantum Computers"
+    authors: "Tirthak Patel, Daniel Silver, Devesh Tiwari"
     link: ""
 
   - conference: "DATE 2022 (b)"
     paper: "Do Temperature and Humidity Exposures Hurt or Benefit Your SSDs?"
+    authors: "Adnan Maruf, Sashri Brahmakshatriya, Baolin Li, Devesh Tiwari, Gang Quan, Janki Bhimani"
     link: ""
 
 
@@ -248,38 +260,47 @@
   elements:
   - conference: "SC 2021 (a)"
     paper: "Systematically Inferring I/O Performance Variability by Examining Repetitive Job Behavior"
+    authors: "Emily Costa, Tirthak Patel, Benjamin Schwaller, Jim M. Brandt, Devesh Tiwari"
     link: ""
 
   - conference: "SC 2021 (b)"
     paper: "Ribbon: Cost-Effective and QoS-Aware Deep Learning Model Inference using a Diverse Pool of Cloud Computing Instances"
+    authors: "Baolin Li, Rohan Basu Roy, Tirthak Patel, Vijay Gadepally, Karen Gettings, Devesh Tiwari"
     link: ""
 
   - conference: "ISCA 2021"
     paper: "SATORI: Efficient and Fair Resource Partitioning by Sacrificing Short-Term Benefits for Long-Term Gains"
+    authors: "Rohan Basu Roy, Tirthak Patel, Devesh Tiwari"
     link: ""
 
   - conference: "HPCA 2021"
     paper: "Operating Liquid-Cooled Large-Scale Systems: Long-Term Monitoring, Reliability Analysis, and Efficiency Measures"
+    authors: "Rohan Basu Roy, Tirthak Patel, Raj Kettimuthu, William E. Allcock, Paul Rich, Adam Scovel, Devesh Tiwari"
     link: ""
 
   - conference: "DSN 2021"
     paper: "Examining Failures and Repairs on Supercomputers with Multi-GPU Compute Nodes"
+    authors: "Amir Taherin, Tirthak Patel, Giorgis Georgakoudis, Ignacio Laguna, Devesh Tiwari"
     link: ""
 
   - conference: "PLDI 2021"
     paper: "BLISS: Auto-tuning Complex Applications Using A Pool of Diverse Lightweight Learning Models"
+    authors: "Rohan Basu Roy, Tirthak Patel, Vijay Gadepally, Devesh Tiwari"
     link: ""
 
   - conference: "IISWC 2021"
     paper: "Serverless Storage Scalability Challenges: Characterization, Implications, and Mitigation"
+    authors: "Rohan Basu Roy, Tirthak Patel, Devesh Tiwari"
     link: ""
 
   - conference: "HPEC 2021"
     paper: "Serving Machine Learning Inference Using Heterogeneous Hardware"
+    authors: "Baolin Li, Vijay Gadepally, Siddharth Samsi, Mark S. Veillette, Devesh Tiwari"
     link: ""
 
   - conference: "ASPLOS 2021"
     paper: "QRAFT: Reverse Your Quantum Circuit and Know the Correct Program Output"
+    authors: "Tirthak Patel, Devesh Tiwari"
     link: ""
 
 
@@ -289,55 +310,68 @@
   elements:
   - conference: "USENIX ATC 2020"
     paper: "UREQA: Leveraging Operation-Aware Error Rates for Effective Quantum Circuit Mapping on NISQ-Era Quantum Computers"
+    authors: "Tirthak Patel, Baolin Li, Rohan Basu Roy, Devesh Tiwari"
     link: ""
 
   - conference: "USENIX FAST 2020 (a)"
     paper: "GIFT: A Coupon Based Throttle-and-Reward Mechanism for Fair and Efficient I/O Bandwidth Management on Parallel Storage Systems"
+    authors: "Tirthak Patel, Rohan Garg, Devesh Tiwari"
     link: ""
 
   - conference: "USENIX FAST 2020 (b)"
     paper: "Uncovering Access, Reuse, and Sharing Characteristics of I/O-Intensive Files on Large-Scale Production HPC Systems"
+    authors: "Tirthak Patel, Suren Byna, Glenn K. Lockwood, Nicholas J. Wright, Philip H. Carns, Robert B. Ross, Devesh Tiwari"
     link: ""
 
   - conference: "USENIX FAST 2020 (c)"
     paper: "Making Disk Failure Predictions SMARTer!"
+    authors: "Sidi Lu, Bing Luo, Tirthak Patel, Yongtao Yao, Devesh Tiwari, Weisong Shi"
     link: ""
 
 
   - conference: "SC 2020 (a)"
     paper: "VERITAS: Accurately Estimating the Correct Output on Noisy Intermediate-Scale Quantum Computers"
+    authors: "Tirthak Patel, Devesh Tiwari"
     link: ""
     
   - conference: "SC 2020 (b)"
     paper: "Experimental Evaluation of NISQ Quantum Computers: Error Measurement, Characterization, and Implications"
+    authors: "Tirthak Patel, Abhay Potharaju, Baolin Li, Rohan Basu Roy, Devesh Tiwari"
     link: ""
     
   - conference: "SC 2020 (c)"
     paper: "Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification and Implications"
+    authors: "Tirthak Patel, Zhengchun Liu, Raj Kettimuthu, Paul Rich, William E. Allcock, Devesh Tiwari"
     link: ""
     
   - conference: "ICCAD 2020"
     paper: "DisQ: A Novel Quantum Output State Classification Method on IBM Quantum Computers using OpenPulse"
+    authors: "Tirthak Patel, Devesh Tiwari"
     link: ""
     
   - conference: "HPCA 2020"
     paper: "CLITE: Efficient and QoS-Aware Co-Location of Multiple Latency-Critical Jobs for Warehouse Scale Computers"
+    authors: "Tirthak Patel, Devesh Tiwari"
     link: ""
     
   - conference: "IPDPS 2020"
     paper: "What does the Power Consumption Behavior of HPC Jobs Reveal?"
+    authors: "Tirthak Patel, Adam Wagenhäuser, Christopher Eibel, Timo Hönig, Thomas Zeiser, Devesh Tiwari"
     link: ""
     
   - conference: "JSNAM 2020"
     paper: "Resilience and Coevolution of Preferential Interdependent Networks"
+    authors: "Auroop R. Ganguly, Tanay Mehta, Tirthak Patel, Ravi Sundaram, Devesh Tiwari"
     link: ""
     
   - conference: "JMR 2020"
     paper: "Comparing Performances of Five Distinct Automatic Classifiers for Fin Whale Vocalizations in Beamformed Spectrograms of Coherent Hydrophone Array"
+    authors: "Heriberto A. Garcia, Trenton Couture, Amit Galor, Jessica M. Topple, Wei Huang, Devesh Tiwari, Purnima Ratilal"
     link: ""
     
   - conference: "TDSC 2020"
     paper: "Characterizing and Exploiting Soft Error Vulnerability Phase Behavior in GPU Applications"
+    authors: "Fritz Previlon, Charu Kalra, Devesh Tiwari, David R. Kaeli"
     link: ""
 
 
@@ -346,34 +380,42 @@
   elements:
   - conference: "TPDS 2019"
     paper: "An Analysis Workflow-Aware Storage System for Multi-Core Active Flash Arrays"
+    authors: "Hyogi Sim, Geoffroy Vallée, Youngjae Kim, Sudharshan S. Vazhkudai, Devesh Tiwari, Ali Raza Butt"
     link: ""
 
   - conference: "SC 2019"
     paper: "Revisiting I/O Behavior in Large-Scale Storage Systems: The Expected and the Unexpected"
+    authors: "Tirthak Patel, Suren Byna, Glenn K. Lockwood, Devesh Tiwari"
     link: ""
 
   - conference: "HPDC 2019"
     paper: "PERQ: Fair and Efficient Power Management of Power-Constrained Large-Scale Computing Systems"
+    authors: "Tirthak Patel, Devesh Tiwari"
     link: ""
 
   - conference: "DAC 2019"
     paper: "What Does Vibration Do To Your SSD?"
+    authors: "Janki Bhimani, Tirthak Patel, Ningfang Mi, Devesh Tiwari"
     link: ""
 
   - conference: "CLOUD 2019"
     paper: "Exploring Potential for Non-Disruptive Vertical Auto Scaling and Resource Estimation in Kubernetes"
+    authors: "Gourav Rattihalli, Madhusudhan Govindaraju, Hui Lu, Devesh Tiwari"
     link: ""
 
   - conference: "ICAC 2019"
     paper: "Characterizing Disk Health Degradation and Proactively Protecting Against Disk Failures for Reliable Storage Systems"
+    authors: "Song Huang, Shuwen Liang, Song Fu, Weisong Shi, Devesh Tiwari, Hsing-bung Chen"
     link: ""
 
   - conference: "CCGrid 2019"
     paper: "Towards Enabling Dynamic Resource Estimation and Correction for Improving Utilization in an Apache Mesos Cloud Environment"
+    authors: "Gourav Rattihalli, Madhusudhan Govindaraju, Devesh Tiwari"
     link: ""
 
   - conference: "DATE 2019"
     paper: "PCFI: Program Counter Guided Fault Injection for Accelerating GPU Reliability Assessment"
+    authors: "Fritz G. Previlon, Charu Kalra, Devesh Tiwari, David R. Kaeli"
     link: ""
 
 
@@ -382,26 +424,32 @@
   elements:
   - conference: "BIGDATA 2018"
     paper: "Reliability Characterization of Solid State Drives in a Scalable Production Datacenter"
+    authors: "Shuwen Liang, Zhi Qiao, Jacob Hochstetler, Song Huang, Song Fu, Weisong Shi, Devesh Tiwari, Hsing-Bung Chen, Bradley W. Settlemyer, David Richard Montoya"
     link: ""
 
   - conference: "ASONAM 2018"
     paper: "Resilience and the Coevolution of Interdependent Multiplex Networks"
+    authors: "Auroop R. Ganguly, Tanbay Mehta, Ravi Sundaram, Devesh Tiwari"
     link: ""
 
   - conference: "ICCCN 2018"
     paper: "Exploring the Optimal Platform Configuration for Power-Constrained HPC Workflows"
+    authors: "Kun Tang, Xubin He, Saurabh Gupta, Sudharshan S. Vazhkudai, Devesh Tiwari"
     link: ""
 
   - conference: "DSN 2018 (a)"
     paper: "Shiraz: Exploiting System Reliability and Application Resilience Characteristics to Improve Large Scale System Throughput"
+    authors: "Rohan Garg, Tirthak Patel, Gene Cooperman, Devesh Tiwari"
     link: ""
 
   - conference: "DSN 2018 (b)"
     paper: "Machine Learning Models for GPU Error Prediction in a Large Scale HPC System"
+    authors: "Bin Nie, Ji Xue, Saurabh Gupta, Tirthak Patel, Christian Engelmann, Evgenia Smirni, Devesh Tiwari"
     link: ""
 
   - conference: "DSN 2018 (c)"
     paper: "Understanding and Analyzing Interconnect Errors and Network Congestion on a Large Scale HPC System"
+    authors: "Mohit Kumar, Saurabh Gupta, Tirthak Patel, Michael Wilder, Weisong Shi, Song Fu, Christian Engelmann, Devesh Tiwari"
     link: ""
 
 
@@ -410,34 +458,42 @@
   elements:
   - conference: "SC 2017 (a)"
     paper: "Failures in Large Scale Systems: Long-Term Measurement, Analysis, and Implications"
+    authors: "Saurabh Gupta, Tirthak Patel, Christian Engelmann, Devesh Tiwari"
     link: ""
 
   - conference: "SC 2017 (b)"
     paper: "GUIDE: A Scalable Information Directory Service to Collect, Federate, and Analyze Logs for Operational Insights into a Leadership HPC Facility"
+    authors: "Sudharshan S. Vazhkudai, Ross G. Miller, Devesh Tiwari, Christopher Zimmer, Feiyi Wang, Sarp Oral, Raghul Gunasekaran, Deryl Steinert"
     link: ""
 
   - conference: "MASCOTS 2017 (a)"
     paper: "Toward Managing HPC Burst Buffers Effectively: Draining Strategy to Regulate Bursty I/O Behavior"
+    authors: "Kun Tang, Ping Huang, Xubin He, Tao Lu, Sudharshan S. Vazhkudai, Devesh Tiwari"
     link: ""
 
   - conference: "MASCOTS 2017 (b)"
     paper: "Characterizing Temperature, Power, and Soft-error Behaviors in Data Center Systems: Insights, Challenges, and Opportunities"
+    authors: "Bin Nie, Ji Xue, Saurabh Gupta, Christian Engelmann, Evgenia Smirni, Devesh Tiwari"
     link: ""
 
   - conference: "CLUSTER 2017"
     paper: "Effective Running of End-to-end HPC Workflows on Emerging Heterogeneous Architectures"
+    authors: "Kun Tang, Devesh Tiwari, Saurabh Gupta, Sudharshan S. Vazhkudai, Xubin He"
     link: ""
 
   - conference: "MWSCAS 2017"
     paper: "Combining Architectural Fault-injection and Neutron Beam Testing Approaches Toward Better Understanding of GPU Soft-error Resilience"
+    authors: "Fritz G. Previlon, Babatunde Egbantan, Devesh Tiwari, Paolo Rech, David R. Kaeli"
     link: ""
 
   - conference: "TECS 2017"
     paper: "Compiler-directed Soft Error Detection and Recovery to Avoid DUE and SDC via Tail-DMR"
+    authors: "Qingrui Liu, Changhee Jung, Dongyoon Lee, Devesh Tiwari"
     link: ""
 
   - conference: "TOMPECS 2017"
     paper: "Obtaining and Managing Answer Quality for Online Data-intensive Services"
+    authors: "Jaimie Kelley, Christopher Stewart, Nathaniel Morris, Devesh Tiwari, Yuxiong He, Sameh Elnikety"
     link: ""
 
 
@@ -446,30 +502,37 @@
   elements:
   - conference: "SC 2016 (a)"
     paper: "Granularity and the Cost of Error Recovery in Resilient AMR Scientific Applications"
+    authors: "Anshu Dubey, Hajime Fujita, Daniel T. Graves, Andrew A. Chien, Devesh Tiwari"
     link: ""
 
   - conference: "SC 2016 (b)"
     paper: "Compiler Directed Lightweight, Fine-grained, Guaranteed Recovery for Soft Error Resilience. (Best Student Paper Award Finalist)"
+    authors: "Qingrui Liu, Changhee Jung, Dongyoon Lee, Devesh Tiwari"
     link: ""
 
   - conference: "MICRO 2016"
     paper: "Low-Cost Soft Error Resilience with Unified Data Verification and Fine-Grained Recovery for Acoustic Sensor Based Detection"
+    authors: "Qingrui Liu, Changhee Jung, Dongyoon Lee, Devesh Tiwari"
     link: ""
 
   - conference: "ICAC 2016"
     paper: "Adaptive Power Profiling for Many-Core HPC Architectures"
+    authors: "Jaimie Kelley, Christopher Stewart, Devesh Tiwari, Saurabh Gupta"
     link: ""
 
   - conference: "DSN 2016"
     paper: "Power-aware Checkpointing: Toward the Optimal Checkpointing Interval under Power Capping"
+    authors: "Kun Tang, Devesh Tiwari, Saurabh Gupta, Ping Huang, Qiqi Lu, Christian Engelmann, Xubin He"
     link: ""
 
   - conference: "IPDPS 2016"
     paper: "Reducing Waste in Large Scale Systems Through Introspective Analysis"
+    authors: "Leonardo Arturo Bautista-Gomez, Ana Gainaru, Swann Perarnau, Devesh Tiwari, Saurabh Gupta, Christian Engelmann, Franck Cappello, Marc Snir"
     link: ""
 
   - conference: "HPCA 2016"
     paper: "A Large-Scale Study of Soft-Errors on GPUs in the Field"
+    authors: "Bin Nie, Devesh Tiwari, Saurabh Gupta, Evgenia Smirni, James H. Rogers"
     link: ""
 
 
@@ -479,42 +542,52 @@
   elements:
   - conference: "SC 2015 (a)"
     paper: "Reliability Lessons Learned From GPU Experience With The Titan Supercomputer at Oak Ridge Leadership Computing Facility"
+    authors: "Devesh Tiwari, Saurabh Gupta, George Gallarno, Jim Rogers, Don Maxwell"
     link: ""
 
   - conference: "SC 2015 (b)"
     paper: "A Practical Approach to Reconciling Availability, Performance, and Capacity in Provisioning Extreme-scale Storage Systems"
+    authors: "Lipeng Wan, Feiyi Wang, Sarp Oral, Devesh Tiwari, Sudharshan S. Vazhkudai, Qing Cao"
     link: ""
 
   - conference: "SC 2015 (c)"
     paper: "AnalyzeThis: An Analysis Workflow-Aware Storage System"
+    authors: "Hyogi Sim, Youngjae Kim, Sudharshan S. Vazhkudai, Devesh Tiwari, Ali Anwar, Ali Raza Butt, Lavanya Ramakrishnan"
     link: ""
 
   - conference: "SC 2015 (d)"
     paper: "Node Variability in Large-Scale Power Measurements: Perspectives from the Green500, Top500 and EEHPCWG"
+    authors: "Thomas Scogland, Jonathan Azose, David Rohr, Suzanne Rivoire, Natalie J. Bates, Daniel Hackenberg"
     link: ""
 
   - conference: "ICAC 2015"
     paper: "Ubora: Measuring and Managing Answer Quality for Online Data-Intensive Services"
+    authors: "Jaimie Kelley, Christopher Stewart, Nathaniel Morris, Devesh Tiwari, Yuxiong He, Sameh Elnikety"
     link: ""
 
   - conference: "DSN 2015"
     paper: "Understanding and Exploiting Spatial Properties of System Failures on Extreme-Scale HPC Systems"
+    authors: "Saurabh Gupta, Devesh Tiwari, Christopher Jantzi, James H. Rogers, Don Maxwell"
     link: ""
 
   - conference: "LCTES 2015"
     paper: "Clover: Compiler Directed Lightweight Soft Error Resilience"
+    authors: "Qingrui Liu, Changhee Jung, Dongyoon Lee, Devesh Tiwari"
     link: ""
 
   - conference: "HPCA 2015"
     paper: "Understanding GPU Errors on Large-scale HPC Systems and the Implications for System Design and Operation"
+    authors: "Devesh Tiwari, Saurabh Gupta, James H. Rogers, Don Maxwell, Paolo Rech, Sudharshan S. Vazhkudai, Daniel Oliveira, Dave Londo, Nathan DeBardeleben, Philippe Olivier Alexandre Navaux, Luigi Carro, Arthur S. Bland"
     link: ""
 
   - conference: "CUG 2015"
     paper: "Experience with GPUs on the Titan Supercomputer from a Reliability, Performance and Power Perspective"
+    authors: "Devesh Tiwari, Saurabh Gupta, James H. Rogers, Don Maxwell"
     link: ""
 
   - conference: "JPDC 2015"
     paper: "Application Configuration Predication for Energy-Efficient Execution on Multicore Systems"
+    authors: "Shinan Wang, Bing Luo, Weisong Shi, Devesh Tiwari"
     link: ""
 
 
@@ -523,26 +596,32 @@
   elements:
   - conference: "SC 2014"
     paper: "Best Practices and Lessons Learned from Deploying and Operating Large-Scale Data-Centric Parallel File Systems"
+    authors: "Sarp Oral, James Simmons, Jason Hill, Dustin Leverman, Feiyi Wang, Matthew A. Ezell, Ross G. Miller, Douglas Fuller, Raghul Gunasekaran, Youngjae Kim, Saurabh Gupta, Devesh Tiwari, Sudharshan S. Vazhkudai, James H. Rogers, David Dillow, Galen M. Shipman, Arthur S. Bland"
     link: ""
 
   - conference: "DSN 2014"
     paper: "Lazy Checkpointing: Exploiting Temporal Locality in Failures to Mitigate Checkpointing Overheads on Extreme-Scale Systems"
+    authors: "Devesh Tiwari, Saurabh Gupta, Sudharshan S. Vazhkudai"
     link: ""
 
   - conference: "IPDPS 2014"
     paper: "MapReuse: Reusing Computation in an In-Memory MapReduce System"
+    authors: "Devesh Tiwari, Yan Solihin"
     link: ""
 
   - conference: "CUG 2014"
     paper: "I/O Router Placement and Fine-Grained Routing on Titan to Support Spider II"
+    authors: "Matthew A. Ezell, David A. Dillow, Sarp Oral, Feiyi Wang, Devesh Tiwari, Don Maxwell, Dustin Leverman, Jason Hill"
     link: ""
 
   - conference: "ICPADS 2014"
     paper: "Improving Large-scale Storage System Performance via Topology-aware and Balanced Data Placement"
+    authors: "Feiyi Wang, Sarp Oral, Saurabh Gupta, Devesh Tiwari, Sudharshan S. Vazhkudai"
     link: ""
 
   - conference: "LUG 2014"
     paper: "SSD Provisioning for Exascale Storage System: When, Where and How much?"
+    authors: "Devesh Tiwari, Sarp Oral, Feiyi Wang, Saurabh Gupta, Josh Judd"
     link: ""
 
 - year:
@@ -550,40 +629,50 @@
   elements:
   - conference: "FAST 2013"
     paper: "Active Flash: Towards Energy-Efficient, In-Situ Data Analytics on Extreme-Scale Machine"
+    authors: "Devesh Tiwari, Simona Boboila, Sudharshan S. Vazhkudai, Youngjae Kim, Xiaosong Ma, Peter Desnoyers, Yan Solihin"
     link: ""
 
   - conference: "HotPower 2012"
     paper: "Reducing Data Movement Cost using Energy-Efficient Active Computation on SSD"
+    authors: "Devesh Tiwari, Sudharshan S. Vazhkudai, Youngjae Kim, Xiaosong Ma, Simona Boboila, Peter Desnoyers"
     link: ""
 
   - conference: "IPDPS 2012"
     paper: "Modeling and Analyzing Key Performance Factors of Shared Memory Map Reduce"
+    authors: "Devesh Tiwari, Yan Solihin"
     link: ""
 
   - conference: "ISPASS 2012"
     paper: "Architectural Characterization and Similarity Analysis of Sunspider and Google's V8 Javascript Benchmarks"
+    authors: "Devesh Tiwari, Yan Solihin"
     link: ""
 
   - conference: "HPCA 2011"
     paper: "HAQu: Hardware Accelerated Queueing for Fine-Grained Threading on a Chip Multi-Processor"
+    authors: "Sanghoon Lee, Devesh Tiwari, Yan Solihin, James Tuck"
     link: ""
 
   - conference: "IPDPS 2010"
     paper: "MMT: Exploiting Fine-Grained Parallelism in Dynamic Memory Management"
+    authors: "Devesh Tiwari, Sanghoon Lee, James Tuck, Yan Solihin"
     link: ""
 
   - conference: "MEDEA Workshop PACT 2009"
     paper: "Memory Management Thread for Heap Intensive Sequential Applications"
+    authors: "Devesh Tiwari, Sanghoon Lee, James Tuck, Yan Solihin"
     link: ""
 
   - conference: "Wild and Crazy Idea Session 2009"
     paper: "Explicit Sequential Programming for Implicit Parallel Performance on Many Cores"
+    authors: "Devesh Tiwari, Yan Solihin"
     link: ""
 
   - conference: "Ceramics International 2009"
     paper: "Simulation of Thermal and Electric Field Evolution during Spark Plasma Sintering"
+    authors: "Devesh Tiwari, Bikramjit Basu, Koushik Biswas"
     link: ""
 
   - conference: "Ceramics International 2009"
     paper: "Is Weibull distribution the most appropriate statistical strength distribution for brittle materials?"
+    authors: "Bikramjit Basu, Devesh Tiwari, Debasis Kundu, Rajesh Prasad"
     link: ""
