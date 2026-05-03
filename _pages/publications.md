@@ -5,33 +5,108 @@ excerpt: "Goodwill Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 # Publications
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Custom Label</title>
-    <style>
-        .custom-label {
-            background-color: #DC143C; /* Replace with your desired color */
-            color: white; /* Text color */
-            padding: 1px 3px; /* Space inside the label */
-            border-radius: 5px; /* Rounded corners */
-            font-weight: bold; /* Bold text */
-            display: inline-block; /* Keeps the label inline */
-            font-size:16px;
-        }
-    </style>
-</head>
+
+<style>
+.custom-label {
+  background-color: #DC143C;
+  color: white;
+  padding: 3px 8px;
+  border-radius: 8px;
+  font-weight: 700;
+  display: inline-block;
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.pub-entry {
+  margin-bottom: 26px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eeeeee;
+  line-height: 1.45;
+}
+
+.pub-links {
+  display: inline-block;
+  margin-left: 2px;
+}
+
+.pub-link {
+  display: inline-block;
+  margin-right: 6px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: #f3f4f6;
+  color: #4a78a8;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.pub-link:hover {
+  background: #DC143C;
+  color: white;
+  text-decoration: none;
+}
+
+.pub-link i {
+  margin-right: 3px;
+}
+
+.pub-title {
+  display: block;
+  margin-top: 8px;
+  font-weight: 600;
+  color: #2f2f2f;
+  font-size: 17px;
+  line-height: 1.3;
+}
+
+.pub-authors {
+  display: block;
+  margin-top: 5px;
+  font-weight: 400;
+  color: #777;
+  font-size: 15px;
+  line-height: 1.35;
+}
+
+/* .publication-year {
+  margin-top: 38px;
+  margin-bottom: 18px;
+  font-size: 42px;
+  font-weight: 750;
+  color: #333;
+} */
+</style>
 
 {% for year in site.data.publications %}
-  <h2>{{ year.text }}</h2>
+
+<h2>{{ year.text }}</h2>
+
 {% for pub in year.elements %}
- <span class="custom-label" style="font-weight:600">{{ pub.conference}}</span> {% if pub.paper-link %}[<a href="{{pub.paper-link}}"><i class="fa fa-file" aria-hidden="true"></i> Paper</a>]{% endif %} {% if pub.code-link %}[<a href="{{pub.code-link}}"><i class="fab fa-fw fa-github" aria-hidden="true"></i>Artifact</a>]{% endif %}{% if pub.slides-link %}[<a href="{{pub.slides-link}}"><i class="fab fa-fw fa-slideshare" aria-hidden="true"></i>Presentation</a>]{%endif%}<br/> 
-<span style="font-weight: 600">{{ pub.paper}}</span> <br/>
- <span style="font-weight: 400;color:#C0C0C0;"> {{pub.authors}}</span><br/>
-<!-- <em><span style="font-weight: 400;color:grey;"> {{pub.conference-name}}</span></em><br/> -->
+
+{% assign paper_url = pub.paper-link %}
+{% assign artifact_url = pub.code-link %}
+{% assign presentation_url = pub.slides-link %}
+
+{% if artifact_url == nil or artifact_url == "" %}
+{% assign artifact_url = paper_url %}
+{% endif %}
+
+{% if presentation_url == nil or presentation_url == "" %}
+{% assign presentation_url = paper_url %}
+{% endif %}
+
+<div class="pub-entry" markdown="0">
+<span class="custom-label">{{ pub.conference }}</span>
+<span class="pub-links"><a href="{{ paper_url }}" class="pub-link" target="_blank"><i class="fa fa-file" aria-hidden="true"></i>Paper</a><a href="{{ artifact_url }}" class="pub-link" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i>Artifact</a><a href="{{ presentation_url }}" class="pub-link" target="_blank"><i class="fab fa-fw fa-slideshare" aria-hidden="true"></i>Presentation</a></span>
+<span class="pub-title">{{ pub.paper }}</span>
+<span class="pub-authors">{{ pub.authors }}</span>
+</div>
+
 {% endfor %}
 {% endfor %}
