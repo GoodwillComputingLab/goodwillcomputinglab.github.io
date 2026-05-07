@@ -19,7 +19,7 @@ student_categories:
       #   email: silver.da@northeastern.edu
 
       - name: Aditya Ranjan
-        photo: 
+        photo: aditya.jpg
         webpage: https://www.linkedin.com/in/aditya-ranjan-99b53b152/
         email: ranjan.ad@northeastern.edu
 
@@ -82,8 +82,9 @@ student_categories:
 
 friends:
   - name: Hanfei Yu 
-    info: PhD Candidate at LSU
+    info: PhD Candidate at SIT
   - name: Sidi Lu
     info: PhD	Advisee/Mentee at Wayne State University (now AP at William & Mary)
   - name: Dan Silver
+  - name: Rui Li
 
