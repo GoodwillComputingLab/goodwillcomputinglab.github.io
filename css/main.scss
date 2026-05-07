@@ -69,12 +69,33 @@ firstp {
 
 // was 16px
 /* Grid overrides */
-.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
-.col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
-	padding-left: 200px;// was 16px
-	padding-right: 200px;// was 16px
+// .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
+// .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+// 	padding-left: 200px;// was 16px
+// 	padding-right: 200px;// was 16px
+// }
+
+@media (min-width: 769px) {
+  .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
+  .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+    padding-left: 200px;
+    padding-right: 200px;
+  }
 }
 
+@media (max-width: 768px) {
+  .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6,
+  .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+
+  #homeid {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+}
 /* Grid overrides */
 .col-sm-4 {
 	padding-left: 26px;
