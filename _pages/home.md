@@ -21,12 +21,13 @@ We also prepare the next generation of students and educators to take advantage 
     Building better high-performance and quantum computing systems for science and society.
   </p>
 
-  <p class="hero-text">
-    The Goodwill Lab develops high-performance computing (HPC) and quantum computing systems
-    that are more efficient, accessible, and useful for solving problems of societal importance.
-    We also prepare the next generation of students and educators through research,
-    open-source artifacts, and outreach.
-  </p>
+ <p class="hero-text">
+  The Goodwill Lab develops <span class="highlight">high-performance computing (HPC)</span>
+  and <span class="highlight">quantum computing systems</span> that are more efficient,
+  accessible, and useful for solving problems of societal importance. We also prepare
+  the next generation of students and educators through research,
+  <span class="highlight">open-source artifacts</span>, and outreach.
+</p>
 
   <div class="hero-cards">
     <div class="hero-card">
@@ -220,5 +221,11 @@ html, body {
   .homepage-carousel .item img {
     height: 240px;
   }
+
+}
+
+.highlight {
+  color: #c8102e;
+  font-weight: 600;
 }
 </style>
