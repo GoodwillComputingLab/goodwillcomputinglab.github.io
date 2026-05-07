@@ -103,29 +103,22 @@ We also prepare the next generation of students and educators to take advantage 
   </div>
 </div>
 
+
 <style>
-.homepage-carousel {
-  max-width: 100%;
-  margin-bottom: 25px;
-}
-
-.homepage-carousel .carousel-inner {
-  height: 380px;
-}
-
-.homepage-carousel .item {
-  height: 380px;
-}
-
-.homepage-carousel .item img {
-  width: 100%;
-  height: 380px;
-  object-fit: cover;
+html, body {
+  overflow-x: hidden;
 }
 
 .homepage-hero {
-  padding: 0px 0 25px 0;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 0 0 25px 0;
   margin-bottom: 25px;
+}
+
+.homepage-hero h1 {
+  margin-top: 0;
 }
 
 .hero-subtitle {
@@ -144,11 +137,13 @@ We also prepare the next generation of students and educators to take advantage 
   display: flex;
   gap: 18px;
   flex-wrap: nowrap;
+  box-sizing: border-box;
 }
 
 .hero-card {
   flex: 1;
   min-width: 0;
+  box-sizing: border-box;
   padding: 18px 20px;
   border-radius: 10px;
   border: 1px solid #e5e7eb;
@@ -175,27 +170,55 @@ We also prepare the next generation of students and educators to take advantage 
 }
 
 .homepage-carousel {
+  width: 100%;
   max-width: 100%;
   margin-bottom: 25px;
 }
 
-.homepage-carousel .carousel-inner {
-  height: 380px;
-}
-
-.homepage-carousel .item {
+.homepage-carousel .carousel-inner,
+.homepage-carousel .item,
+.homepage-carousel .item img {
+  width: 100%;
   height: 380px;
 }
 
 .homepage-carousel .item img {
-  width: 100%;
-  height: 380px;
   object-fit: cover;
 }
 
 @media (max-width: 768px) {
+  .homepage-hero {
+    padding: 0 15px 20px 15px;
+    margin: 0 0 20px 0;
+  }
+
+  .hero-subtitle,
+  .hero-text {
+    width: 100%;
+    max-width: 100%;
+  }
+
   .hero-cards {
-    flex-direction: column;
+    display: block;
+    width: 100%;
+  }
+
+  .hero-card {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 12px;
+    padding: 15px 16px;
+  }
+
+  .hero-card h3 {
+    font-size: 18px;
+    line-height: 1.25;
+  }
+
+  .homepage-carousel .carousel-inner,
+  .homepage-carousel .item,
+  .homepage-carousel .item img {
+    height: 240px;
   }
 }
 </style>
