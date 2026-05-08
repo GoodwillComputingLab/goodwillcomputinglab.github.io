@@ -601,32 +601,34 @@
   - conference: "SC 2014"
     paper: "Best Practices and Lessons Learned from Deploying and Operating Large-Scale Data-Centric Parallel File Systems"
     authors: "Sarp Oral, James Simmons, Jason Hill, Dustin Leverman, Feiyi Wang, Matthew A. Ezell, Ross G. Miller, Douglas Fuller, Raghul Gunasekaran, Youngjae Kim, Saurabh Gupta, Devesh Tiwari, Sudharshan S. Vazhkudai, James H. Rogers, David Dillow, Galen M. Shipman, Arthur S. Bland"
-    link: ""
+    paper-link: https://doi.org/10.1109/SC.2014.23
 
   - conference: "DSN 2014"
     paper: "Lazy Checkpointing: Exploiting Temporal Locality in Failures to Mitigate Checkpointing Overheads on Extreme-Scale Systems"
     authors: "Devesh Tiwari, Saurabh Gupta, Sudharshan S. Vazhkudai"
-    link: ""
+    paper-link: https://doi.org/10.1109/DSN.2014.101
 
   - conference: "IPDPS 2014"
     paper: "MapReuse: Reusing Computation in an In-Memory MapReduce System"
     authors: "Devesh Tiwari, Yan Solihin"
-    link: ""
+    paper-link: https://doi.org/10.1109/IPDPS.2014.18
+
 
   - conference: "CUG 2014"
     paper: "I/O Router Placement and Fine-Grained Routing on Titan to Support Spider II"
     authors: "Matthew A. Ezell, David A. Dillow, Sarp Oral, Feiyi Wang, Devesh Tiwari, Don Maxwell, Dustin Leverman, Jason Hill"
-    link: ""
+    paper-link: https://cug.org/proceedings/cug2014_proceedings/includes/files/pap116.pdf
 
   - conference: "ICPADS 2014"
     paper: "Improving Large-scale Storage System Performance via Topology-aware and Balanced Data Placement"
     authors: "Feiyi Wang, Sarp Oral, Saurabh Gupta, Devesh Tiwari, Sudharshan S. Vazhkudai"
-    link: ""
+    paper-link: https://doi.org/10.1109/PADSW.2014.7097866
+    slides-link: http://wiki.lustre.org/images/9/94/BalancedDataPlacement.pdf
 
   - conference: "LUG 2014"
     paper: "SSD Provisioning for Exascale Storage System: When, Where and How much?"
     authors: "Devesh Tiwari, Sarp Oral, Feiyi Wang, Saurabh Gupta, Josh Judd"
-    link: ""
+    paper-link: "https://wiki.lustre.org/images/f/f1/LUG2014-SSDProvisioningforExascale-ORNL.pdf"
 
 - year:
   text: "2013 and before"
