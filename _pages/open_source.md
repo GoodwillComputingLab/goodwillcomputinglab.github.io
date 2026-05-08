@@ -42,6 +42,43 @@ research progress as a community, lower the barrier to entry to new fields, and 
 
 <div class="artifact-publication">
 <div class="artifact-thumb">
+<img src="{{ site.baseurl }}/images/artifacts/ipdps26_watersplit.png" alt="watersplit artifact">
+</div>
+<div class="artifact-text">
+<h3>WaterSplit: Water-Aware On-Site and Off-Site Water Allocation Framework</h3>
+<p class="artifact-desc">A water-aware optimization framework that balances on-site cooling water and off-site electricity-related water in datacenters.</p>
+<div class="artifact-buttons">
+<a href="https://doi.org/10.5281/zenodo.18644807" target="_blank" rel="noopener">Artifact</a>
+<div class="artifact-stats" data-zenodo-id="18644807">
+<span class="artifact-views">Views: --</span>
+<span class="artifact-downloads">Downloads: --</span>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="artifact-publication">
+<div class="artifact-thumb">
+<img src="{{ site.baseurl }}/images/artifacts/sc25_greenmix.png" alt="watersplit artifact">
+</div>
+<div class="artifact-text">
+<h3>GreenMix: Randomized Sketching Based Energy-Efficient Serverless Computing Framework</h3>
+<p class="artifact-desc">A framework for energy-efficient serverless function execution on asymmetric multi-core processors.</p>
+<div class="artifact-buttons">
+<a href="https://doi.org/10.5281/zenodo.10967591" target="_blank" rel="noopener">Artifact</a>
+<div class="artifact-stats" data-zenodo-id="10967591">
+<span class="artifact-views">Views: --</span>
+<span class="artifact-downloads">Downloads: --</span>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="artifact-publication">
+<div class="artifact-thumb">
 <img src="{{ site.baseurl }}/images/artifacts/sc21_ribbon.png" alt="Ribbon artifact">
 </div>
 <div class="artifact-text">
@@ -67,6 +104,25 @@ research progress as a community, lower the barrier to entry to new fields, and 
 <div class="artifact-buttons">
 <a href="https://doi.org/10.5281/zenodo.5236852" target="_blank" rel="noopener">Artifact</a>
 <div class="artifact-stats" data-zenodo-id="5236852">
+<span class="artifact-views">Views: --</span>
+<span class="artifact-downloads">Downloads: --</span>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="artifact-publication">
+<div class="artifact-thumb">
+<img src="{{ site.baseurl }}/images/artifacts/iiswc21_serverless.png" alt="iiswc artifact">
+</div>
+<div class="artifact-text">
+<h3>Dataset of I/O Scalability Characterization for Serverless Applications</h3>
+<p class="artifact-desc">A framework for characterizing and mitigating I/O scalability bottlenecks in serverless applications.</p>
+<div class="artifact-buttons">
+<a href="https://doi.org/10.5281/zenodo.5507635" target="_blank" rel="noopener">Artifact</a>
+<div class="artifact-stats" data-zenodo-id="5507635">
 <span class="artifact-views">Views: --</span>
 <span class="artifact-downloads">Downloads: --</span>
 </div>

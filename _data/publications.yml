@@ -11,7 +11,8 @@
   - conference: "IPDPS 2026"
     paper: "WaterSplit: Coordinated On-Site and Off-Site Water Allocation For Sustainable Datacenter Cooling"
     authors: "Yankai Jiang, Raghavendra Kanakagiri, Rohan Basu Roy, Devesh Tiwari"
-    
+    code-link: https://doi.org/10.5281/zenodo.18644807
+
   - conference: "SIGMETRICS 2026"
     paper: "ObliQ: Solving Quadratic Unconstrained Binary Optimization Problems on Real Photonic Quantum Machines"
     authors: "Aditya Ranjan, Daniel Silver, Tirthak Patel, Bhargav Chickmagalurnanjun, Devesh Tiwari"
@@ -81,8 +82,9 @@
     authors: "Daniel Silver, Aditya Ranjan, Rakesh Achutha, Tirthak Patel, Devesh Tiwari"
 
   - conference: "SC 2024 (b)"
-    paper: "ECO-LIFE: High-Performance and Carbon-Aware Serverless Workloads Scheduling via Multi-generation Hardware"
+    paper: "EcoLife: Carbon-Aware Serverless Function Scheduling for Sustainable Computing"
     authors: "Yankai Jiang, Rohan Basu Roy, Baolin Li, Devesh Tiwari"
+    paper-link: https://doi.org/10.1109/SC41406.2024.00018
 
   - conference: "SC 2024 (c)"
     paper: "Incentive-Based Power Efficiency Mechanisms on the Fugaku Supercomputer"
@@ -632,49 +634,50 @@
   - conference: "FAST 2013"
     paper: "Active Flash: Towards Energy-Efficient, In-Situ Data Analytics on Extreme-Scale Machine"
     authors: "Devesh Tiwari, Simona Boboila, Sudharshan S. Vazhkudai, Youngjae Kim, Xiaosong Ma, Peter Desnoyers, Yan Solihin"
-    link: ""
+    paper-link: "https://www.usenix.org/system/files/conference/fast13/fast13-final135_0.pdf"
+    slides-link: "https://www.usenix.org/sites/default/files/conference/protected-files/tiwari_fast13_slides.pdf"
 
   - conference: "HotPower 2012"
     paper: "Reducing Data Movement Cost using Energy-Efficient Active Computation on SSD"
     authors: "Devesh Tiwari, Sudharshan S. Vazhkudai, Youngjae Kim, Xiaosong Ma, Simona Boboila, Peter Desnoyers"
-    link: ""
+    paper-link: "https://www.usenix.org/system/files/conference/hotpower12/hotpower12-final33.pdf"
 
   - conference: "IPDPS 2012"
     paper: "Modeling and Analyzing Key Performance Factors of Shared Memory Map Reduce"
     authors: "Devesh Tiwari, Yan Solihin"
-    link: ""
+    paper-link: "https://doi.org/10.1109/IPDPS.2012.119"
 
   - conference: "ISPASS 2012"
     paper: "Architectural Characterization and Similarity Analysis of Sunspider and Google's V8 Javascript Benchmarks"
     authors: "Devesh Tiwari, Yan Solihin"
-    link: ""
+    paper-link: "https://doi.org/10.1109/ISPASS.2012.6189228"
 
   - conference: "HPCA 2011"
     paper: "HAQu: Hardware Accelerated Queueing for Fine-Grained Threading on a Chip Multi-Processor"
     authors: "Sanghoon Lee, Devesh Tiwari, Yan Solihin, James Tuck"
-    link: ""
+    paper-link: "https://doi.org/10.1109/HPCA.2011.5749720"
 
   - conference: "IPDPS 2010"
     paper: "MMT: Exploiting Fine-Grained Parallelism in Dynamic Memory Management"
     authors: "Devesh Tiwari, Sanghoon Lee, James Tuck, Yan Solihin"
-    link: ""
+    paper-link: "https://doi.org/10.1109/IPDPS.2010.5470428"
 
   - conference: "MEDEA Workshop PACT 2009"
     paper: "Memory Management Thread for Heap Intensive Sequential Applications"
     authors: "Devesh Tiwari, Sanghoon Lee, James Tuck, Yan Solihin"
-    link: ""
+    paper-link: "https://doi.org/10.1145/1621960.1621967"
 
   - conference: "Wild and Crazy Idea Session 2009"
     paper: "Explicit Sequential Programming for Implicit Parallel Performance on Many Cores"
     authors: "Devesh Tiwari, Yan Solihin"
-    link: ""
+    paper-link: "https://www.cs.cmu.edu/~seth/wild-and-crazy09/deveshtiwari.pdf"
 
   - conference: "Ceramics International 2009"
     paper: "Simulation of Thermal and Electric Field Evolution during Spark Plasma Sintering"
     authors: "Devesh Tiwari, Bikramjit Basu, Koushik Biswas"
-    link: ""
+    paper-link: "https://doi.org/10.1016/j.ceramint.2008.02.013"
 
   - conference: "Ceramics International 2009"
     paper: "Is Weibull distribution the most appropriate statistical strength distribution for brittle materials?"
     authors: "Bikramjit Basu, Devesh Tiwari, Debasis Kundu, Rajesh Prasad"
-    link: ""
+    paper-link: "https://doi.org/10.1016/j.ceramint.2007.10.003"

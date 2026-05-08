@@ -10,6 +10,15 @@ permalink: /publications/
 
 # Publications
 
+<div id="top"></div>
+
+<div class="year-nav">
+  <span class="year-nav-title">Jump to year:</span>
+  {% for year in site.data.publications %}
+  <a href="#year-{{ year.text | slugify }}">{{ year.text }}</a>
+  {% endfor %}
+</div>
+
 <style>
 .custom-label {
   background-color: #DC143C;
@@ -81,11 +90,62 @@ permalink: /publications/
   font-weight: 750;
   color: #333;
 } */
+
+.year-nav {
+  margin: 12px 0 34px;
+  padding: 12px 0;
+  border-top: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
+  background: transparent;
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 10px;
+}
+
+.year-nav-title {
+  font-weight: 600;
+  color: #333;
+  margin-right: 8px;
+  font-size: 15px;
+}
+
+.year-nav a {
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+
+  padding: 3px 9px;
+  border-radius: 999px;
+  border: 1px solid #dddddd;
+  background: #ffffff;
+
+  color: #4a78a8;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.3;
+
+  margin: 0 !important;
+  width: auto !important;
+  min-width: 0 !important;
+}
+
+.year-nav a:hover {
+  background: #DC143C;
+  border-color: #DC143C;
+  color: white;
+  text-decoration: none;
+}
 </style>
 
 {% for year in site.data.publications %}
 
-<h2>{{ year.text }}</h2>
+<div class="year-heading" id="year-{{ year.text | slugify }}">
+  <h2>{{ year.text }}</h2>
+  <a class="back-to-top" href="#top">Back to top</a>
+</div>
 
 {% for pub in year.elements %}
 
@@ -110,3 +170,4 @@ permalink: /publications/
 
 {% endfor %}
 {% endfor %}
+
