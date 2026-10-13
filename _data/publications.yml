@@ -1,16 +1,29 @@
 - year:
   text: "2026"
   elements:
-
-  - conference: "SC 2026"
+    
+  - conference: "SC 2026 (a)"
     paper: "HolyDiver: Water and Carbon Footprint-Aware Serverless Computing"
     authors: "Rohan Basu Roy, Yankai Jiang, Raghavendra Kanakagiri, Devesh Tiwari"
+
+  - conference: "SC 2026 (b)"
+    paper: "ZenKO: Guided and Iterative Quantum-Classical Method for Molecular Electronic Structure Using Sample-Based Quantum Diagonalization"
+    authors: "Aditya Ranjan, Devesh Tiwari"
     
   - conference: "APS Physical Review A"
     paper: "Embedding Classical Partial Differential Equations in Photonic Continuous-Variable Quantum Systems"
     authors: "Aditya Ranjan, Tirthak Patel, Devesh Tiwari"
     paper-link: https://journals.aps.org/pra/pdf/10.1103/ggsj-mhkb
     code-link: https://doi.org/10.5281/zenodo.18395187
+
+  - conference: "CCGrid 2026"
+    paper: "Synthetic Data Generation for Storage Failure Prediction in Large-Scale Systems"
+    authors: "Chandranil Chakraborttii, Ana Luisa Veroneze Solórzano, Devesh Tiwari"
+    paper-link: https://ieeexplore.ieee.org/document/11619063
+
+  - conference: "SoCC 2026"
+    paper: "xRLHF: Efficient RLHF with Serverless Computing"
+    authors: "Rui Wei, Hanfei Yu, Devesh Tiwari, Jian Li, Seung-Jong Park, Hao Wang"
     
   - conference: "HPCA 2026"
     paper: "LowCarb: Carbon-Aware Scheduling of Serverless Functions"
