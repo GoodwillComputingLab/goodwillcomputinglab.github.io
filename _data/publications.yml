@@ -21,7 +21,11 @@
     authors: "Chandranil Chakraborttii, Ana Luisa Veroneze Solórzano, Devesh Tiwari"
     paper-link: https://ieeexplore.ieee.org/document/11619063
 
-  - conference: "SoCC 2026"
+  - conference: "SoCC 2026 (a)"
+    paper: "Temporal Noise Drift in Quantum Reservoir Computing: Characterization, Impact, and Mitigation"
+    authors: "Aditya Ranjan, Tirthak Patel, Devesh Tiwari"
+    
+  - conference: "SoCC 2026 (b)"
     paper: "xRLHF: Efficient RLHF with Serverless Computing"
     authors: "Rui Wei, Hanfei Yu, Devesh Tiwari, Jian Li, Seung-Jong Park, Hao Wang"
     
